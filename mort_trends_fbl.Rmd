@@ -1,0 +1,91 @@
+---
+title: "Mortality Trends"
+author: "Steven J. Rigatti, MD, DBIM, FAAIM"
+date: "2025-07-15"
+output:
+  ioslides_presentation:
+    widescreen: true
+    logo: "NewRRALogo.png"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(readxl)
+library(plotly)
+library(RColorBrewer)
+
+```
+
+## R Markdown
+
+
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Crude Rates in Farm Bureau States
+#### High Income Counties
+
+```{r crudeRates, fig.width=10, fig.algn='center'}
+d <- read_excel("FBFS_COD_Research.xlsx", sheet = "SixGroupHighIncome")
+d <- d %>% 
+     select(Year, Sex, `Ten-Year Age Groups Code`, Deaths:MR_2019) %>% 
+     filter(!is.na(Year)) %>% 
+     mutate(Year = case_when(Year == "2024 (provisional)" ~ 2024,
+                             Year == "2025 (provisional and partial)" ~ 2025,
+                             TRUE ~ as.numeric(Year)),
+            MR_2019 = round(MR_2019,2)) %>% 
+     filter(Year <= 2024)
+names(d) <- c("year","sex","age","deaths","population","crude_rate","q_2019", "MR")
+
+## chart of crude rates by year, with lines colored by age group and sex in panels
+p1 <- ggplot(d, aes(x = year, y = crude_rate, color = age)) +
+     geom_line(lwd = 1) +
+     facet_wrap(~sex) +
+     labs(title = NULL,
+          x = "Year",
+          y = "Crude Rate") +
+     theme_minimal() +
+     scale_color_brewer(palette = "PuRd") +
+     scale_y_log10() +
+     # enlarge and darken the text
+     theme(text = element_text(size = 16, color = "black"),
+           legend.position = "bottom") +
+     labs(color = "Age Group", x = NULL)
+ggplotly(p1) %>%
+      plotly::layout(legend=list(x=0, y=-0.2,
+                                 xanchor='left',
+                                 yanchor='bottom',
+                                 orientation='h'))
+```
+
+## Rate Ratios vs. 2019 in Farm Bureau States
+#### High Income Counties
+
+```{r mr_2019, fig.width=10, fig.algn='center'}
+dk_blues <- brewer.pal(name="Blues",n=9)[4:9]
+p2 <- ggplot(d, aes(x = year, y = MR, color = age)) +
+     geom_line(lwd = 1) +
+     facet_wrap(~sex) +
+     labs(title = "Mortality Rate Ratios vs. 2019 by Year and Age Group",
+          x = "Year",
+          y = "Rate Ratio (vs. 2019)") +
+     theme_minimal() +
+     scale_color_manual(values = dk_blues) +
+     # scale_y_log10() +
+     # enlarge and darken the text
+     theme(text = element_text(size = 16, color = "black"),,
+           legend.position = "bottom") +
+     labs(color = "Age Group", 
+          title = NULL, x = NULL)
+ggplotly(p2) %>%
+      plotly::layout(legend=list(x=0, y=-0.2,
+                                 xanchor='left',
+                                 yanchor='bottom',
+                                 orientation='h'))
+```
+
