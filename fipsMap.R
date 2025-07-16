@@ -70,7 +70,7 @@ ggplotly(p1) %>%
 
 ## Same plot but use the mr_2019 column for rate ratios
 dk_blues <- brewer.pal(name="Blues",n=9)[4:9]
-p2 <- ggplot(d, aes(x = year, y = round(mr_2019, 2), color = age)) +
+p2 <- ggplot(d, aes(x = year, y = MR, color = age)) +
      geom_line(lwd = 1) +
      facet_wrap(~sex) +
      labs(title = "Mortality Rate Ratios vs. 2019 by Year and Age Group",
@@ -111,8 +111,8 @@ c <- c %>% filter(cause_code %in% causes$cause_code)
 
 # Plot EDR of each cause by year with sex as panel variable
 p3 <- ggplot(c, aes(x = yr, y = EDR, color = ucd_cause)) +
-     geom_line(lwd = 1) +
-     facet_wrap(~sex) +
+     geom_line(aes(linetype = sex)) +
+     facet_wrap(~ucd_cause) +
      labs(title = "Excess Death Rate by Cause of Death",
           x = "Year",
           y = "Excess Death Rate") +
@@ -120,7 +120,6 @@ p3 <- ggplot(c, aes(x = yr, y = EDR, color = ucd_cause)) +
      scale_color_brewer(palette = "Set1") +
      #scale_y_log10() +
      # enlarge and darken the text
-     theme(text = element_text(size = 16, color = "black"),
-           legend.position = "bottom") +
+     theme(legend.position = "none") +
      labs(color = "Cause of Death", x = NULL)
 ggplotly(p3)

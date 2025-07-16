@@ -6,6 +6,7 @@ output:
   ioslides_presentation:
     widescreen: true
     logo: "NewRRALogo.png"
+    incremental: true
 ---
 
 ```{r setup, include=FALSE}
@@ -17,15 +18,27 @@ library(RColorBrewer)
 
 ```
 
-## R Markdown
+## Introduction
+  
+ - Mortality trends in the United States have been a topic of significant interest, particularly in the context of the COVID-19 pandemic
+ 
+ - Multiple factors have contributed to changes in general and cause-specific mortality rates
+ 
+ - Many of these trends pre-date the pandemic, going back decades
 
 
 
-## Slide with Bullets
+## Agenda
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Describe the mortality trends in the United States
+
+- Examine these trends specifically in higher income Farm Bureau counties
+
+- Dive deeper into specific causes (liver-related, drug-related)
+
+- Discuss mitigation strategies for life insurers
+
+## {data-background=images/JAMAmissingAmericans.png data-background-size=cover}
 
 ## Crude Rates in Farm Bureau States
 #### High Income Counties
