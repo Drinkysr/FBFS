@@ -57,7 +57,7 @@ p1 <- ggplot(d, aes(x = year, y = crude_rate, color = age)) +
           y = "Crude Rate") +
      theme_minimal() +
      scale_color_brewer(palette = "PuRd") +
-     scale_y_log10() +
+     #scale_y_log10() +
      # enlarge and darken the text
      theme(text = element_text(size = 16, color = "black"),
            legend.position = "bottom") +
@@ -96,7 +96,7 @@ names(c) <- c("notes","year","yr","sex","sex_c","ucd_cause", "cause_code", "deat
 
 c <- c %>%
      filter(yr <= 2024,
-            deaths >= 100) %>% 
+            deaths >= 50) %>% 
      select(yr, sex, ucd_cause, cause_code, deaths, rate, q_2019, MR, EDR)
 
 #find which cause codes are in all of the years
@@ -108,10 +108,16 @@ causes <- c %>%
      distinct()
 
 c <- c %>% filter(cause_code %in% causes$cause_code)
+## change ucd_cause variable to include everything up to the first parenthesis
+c$ucd_cause <- sub("\\(.*", "", c$ucd_cause)
+c$MR <- round(c$MR, 2)
+c$EDR <- round(c$EDR, 1)
 
+c <- c %>% 
+     mutate(ucd_cause = ifelse(substr(ucd_cause, 1, 3) == "Acc", "Accidental Poisoning", ucd_cause))
 # Plot EDR of each cause by year with sex as panel variable
-p3 <- ggplot(c, aes(x = yr, y = EDR, color = ucd_cause)) +
-     geom_line(aes(linetype = sex)) +
+p3 <- ggplot(c, aes(x = yr, y = EDR)) +
+     geom_line(aes(color = sex)) +
      facet_wrap(~ucd_cause) +
      labs(title = "Excess Death Rate by Cause of Death",
           x = "Year",
@@ -123,3 +129,17 @@ p3 <- ggplot(c, aes(x = yr, y = EDR, color = ucd_cause)) +
      theme(legend.position = "none") +
      labs(color = "Cause of Death", x = NULL)
 ggplotly(p3)
+
+p4 <- ggplot(c, aes(x = yr, y = MR)) +
+     geom_line(aes(color = sex)) +
+     facet_wrap(~ucd_cause) +
+     labs(title = "Mortality Ratio by Cause of Death",
+          x = "Year",
+          y = "Excess Death Rate") +
+     theme_minimal() +
+     scale_color_brewer(palette = "Set1") +
+     #scale_y_log10() +
+     # enlarge and darken the text
+     theme(legend.position = "none") +
+     labs(color = "Cause of Death", x = NULL)
+ggplotly(p4)
