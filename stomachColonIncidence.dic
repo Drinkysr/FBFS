@@ -1,0 +1,37 @@
+[System]
+Output filename=C:\Users\sjrig\OneDrive\Desktop\Steve\FBFS\stomachColonIncidence.csv
+Database name=Incidence - SEER Research Plus Data, 17 Registries, Nov 2023 Sub (2000-2021) - Linked To County Attributes - Total U.S., 1969-2022 Counties
+
+[Session Options]
+Type=Rate
+RatesAsCasesPer=100000
+
+[Export Options]
+GZipped=false
+Variable format=labels
+File format=DOS/Windows
+Field delimiter=comma
+Missing character=space
+Fields with delimiter in quotes=true
+Remove thousands separators=true
+Flags included=true
+Variable names included=true
+Column Variables as Stats=false
+
+[Variables]
+Var1Name=Age Standard for Survival (15-44,45-54,55-64,65-74,75+)
+Var1Base=Age recode with <1 year olds
+Var1Dimension=Page
+Var2Name=Year of diagnosis (2000-2005,2006-2020 by 5)
+Var2Base=Year of diagnosis
+Var2Dimension=Row
+Var3Name=States V Others
+Var3Base=SEER registry
+Var3Dimension=Row
+Var4Name=Stomach Colon Others
+Var4Base=Site recode ICD-O-3/WHO 2008
+Var4Dimension=Column
+Var5Name=Age-Adjusted Rate
+Var6Name=Count
+Var7Name=Population
+

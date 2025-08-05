@@ -1,0 +1,481 @@
+"Age Standard for Survival (15-44,45-54,55-64,65-74,75+)","Year of diagnosis (2000-2005,2006-2020 by 5)","States V Others","Stomach Colon Others","Age-Adjusted Rate","Count","Population"
+15-44 years,2000-2005,Connecticut,Stomach,1.0,90,8576284
+15-44 years,2000-2005,Connecticut,Colorectal,4.5,402,8576284
+15-44 years,2000-2005,Connecticut,Remaining values,1.1,95,8576284
+15-44 years,2000-2005,Iowa,Stomach,0.9,59,7286248
+15-44 years,2000-2005,Iowa,Colorectal,4.6,321,7286248
+15-44 years,2000-2005,Iowa,Remaining values,0.8,58,7286248
+15-44 years,2000-2005,New Mexico,Stomach,1.1,48,4730622
+15-44 years,2000-2005,New Mexico,Colorectal,4.2,187,4730622
+15-44 years,2000-2005,New Mexico,Remaining values,0.7,29,4730622
+15-44 years,2000-2005,Utah,Stomach,0.7,34,6600388
+15-44 years,2000-2005,Utah,Colorectal,3.9,210,6600388
+15-44 years,2000-2005,Utah,Remaining values,0.7,34,6600388
+15-44 years,2000-2005,Kentucky,Stomach,0.8,83,10583393
+15-44 years,2000-2005,Kentucky,Colorectal,5.8,599,10583393
+15-44 years,2000-2005,Kentucky,Remaining values,1.0,108,10583393
+15-44 years,2000-2005,Louisiana,Stomach,1.0,113,11696152
+15-44 years,2000-2005,Louisiana,Colorectal,5.4,590,11696152
+15-44 years,2000-2005,Louisiana,Remaining values,0.8,89,11696152
+15-44 years,2000-2005,New Jersey,Stomach,1.3,295,21680660
+15-44 years,2000-2005,New Jersey,Colorectal,5.0,1133,21680660
+15-44 years,2000-2005,New Jersey,Remaining values,1.0,221,21680660
+15-44 years,2000-2005,Remaining values,Stomach,^,^,0
+15-44 years,2000-2005,Remaining values,Colorectal,^,^,0
+15-44 years,2000-2005,Remaining values,Remaining values,^,^,0
+15-44 years,2006-2010,Connecticut,Stomach,1.2,85,6987520
+15-44 years,2006-2010,Connecticut,Colorectal,4.9,344,6987520
+15-44 years,2006-2010,Connecticut,Remaining values,1.4,99,6987520
+15-44 years,2006-2010,Iowa,Stomach,0.8,43,5913924
+15-44 years,2006-2010,Iowa,Colorectal,5.7,302,5913924
+15-44 years,2006-2010,Iowa,Remaining values,0.9,49,5913924
+15-44 years,2006-2010,New Mexico,Stomach,1.5,51,4019837
+15-44 years,2006-2010,New Mexico,Colorectal,5.0,179,4019837
+15-44 years,2006-2010,New Mexico,Remaining values,^,^,4019837
+15-44 years,2006-2010,Utah,Stomach,0.8,39,5960047
+15-44 years,2006-2010,Utah,Colorectal,5.0,240,5960047
+15-44 years,2006-2010,Utah,Remaining values,0.8,36,5960047
+15-44 years,2006-2010,Kentucky,Stomach,0.8,64,8696377
+15-44 years,2006-2010,Kentucky,Colorectal,6.8,554,8696377
+15-44 years,2006-2010,Kentucky,Remaining values,1.2,96,8696377
+15-44 years,2006-2010,Louisiana,Stomach,1.3,111,9176266
+15-44 years,2006-2010,Louisiana,Colorectal,6.4,520,9176266
+15-44 years,2006-2010,Louisiana,Remaining values,0.9,70,9176266
+15-44 years,2006-2010,New Jersey,Stomach,1.3,220,17597563
+15-44 years,2006-2010,New Jersey,Colorectal,5.3,932,17597563
+15-44 years,2006-2010,New Jersey,Remaining values,0.9,165,17597563
+15-44 years,2006-2010,Remaining values,Stomach,^,^,0
+15-44 years,2006-2010,Remaining values,Colorectal,^,^,0
+15-44 years,2006-2010,Remaining values,Remaining values,^,^,0
+15-44 years,2011-2015,Connecticut,Stomach,1.3,85,6902437
+15-44 years,2011-2015,Connecticut,Colorectal,6.1,384,6902437
+15-44 years,2011-2015,Connecticut,Remaining values,1.5,101,6902437
+15-44 years,2011-2015,Iowa,Stomach,0.9,47,6005700
+15-44 years,2011-2015,Iowa,Colorectal,6.2,319,6005700
+15-44 years,2011-2015,Iowa,Remaining values,1.4,75,6005700
+15-44 years,2011-2015,New Mexico,Stomach,1.1,42,4104844
+15-44 years,2011-2015,New Mexico,Colorectal,4.8,171,4104844
+15-44 years,2011-2015,New Mexico,Remaining values,0.7,28,4104844
+15-44 years,2011-2015,Utah,Stomach,1.0,51,6442875
+15-44 years,2011-2015,Utah,Colorectal,5.6,308,6442875
+15-44 years,2011-2015,Utah,Remaining values,1.2,67,6442875
+15-44 years,2011-2015,Kentucky,Stomach,1.0,76,8688708
+15-44 years,2011-2015,Kentucky,Colorectal,7.5,595,8688708
+15-44 years,2011-2015,Kentucky,Remaining values,2.1,172,8688708
+15-44 years,2011-2015,Louisiana,Stomach,1.2,95,9410173
+15-44 years,2011-2015,Louisiana,Colorectal,6.8,549,9410173
+15-44 years,2011-2015,Louisiana,Remaining values,1.5,129,9410173
+15-44 years,2011-2015,New Jersey,Stomach,1.5,243,17498918
+15-44 years,2011-2015,New Jersey,Colorectal,5.7,954,17498918
+15-44 years,2011-2015,New Jersey,Remaining values,1.4,238,17498918
+15-44 years,2011-2015,Remaining values,Stomach,^,^,0
+15-44 years,2011-2015,Remaining values,Colorectal,^,^,0
+15-44 years,2011-2015,Remaining values,Remaining values,^,^,0
+15-44 years,2016-2020,Connecticut,Stomach,1.4,85,6845752
+15-44 years,2016-2020,Connecticut,Colorectal,6.0,361,6845752
+15-44 years,2016-2020,Connecticut,Remaining values,2.4,154,6845752
+15-44 years,2016-2020,Iowa,Stomach,0.9,51,6157964
+15-44 years,2016-2020,Iowa,Colorectal,6.3,335,6157964
+15-44 years,2016-2020,Iowa,Remaining values,3.0,174,6157964
+15-44 years,2016-2020,New Mexico,Stomach,1.5,54,4127714
+15-44 years,2016-2020,New Mexico,Colorectal,5.5,198,4127714
+15-44 years,2016-2020,New Mexico,Remaining values,1.8,69,4127714
+15-44 years,2016-2020,Utah,Stomach,0.9,54,7126730
+15-44 years,2016-2020,Utah,Colorectal,5.7,348,7126730
+15-44 years,2016-2020,Utah,Remaining values,2.4,164,7126730
+15-44 years,2016-2020,Kentucky,Stomach,1.3,103,8692331
+15-44 years,2016-2020,Kentucky,Colorectal,7.4,570,8692331
+15-44 years,2016-2020,Kentucky,Remaining values,2.7,226,8692331
+15-44 years,2016-2020,Louisiana,Stomach,1.1,95,9357099
+15-44 years,2016-2020,Louisiana,Colorectal,7.0,572,9357099
+15-44 years,2016-2020,Louisiana,Remaining values,2.4,216,9357099
+15-44 years,2016-2020,New Jersey,Stomach,1.5,244,17670318
+15-44 years,2016-2020,New Jersey,Colorectal,5.9,961,17670318
+15-44 years,2016-2020,New Jersey,Remaining values,2.1,362,17670318
+15-44 years,2016-2020,Remaining values,Stomach,^,^,0
+15-44 years,2016-2020,Remaining values,Colorectal,^,^,0
+15-44 years,2016-2020,Remaining values,Remaining values,^,^,0
+45-54 years,2000-2005,Connecticut,Stomach,6.5,199,3071185
+45-54 years,2000-2005,Connecticut,Colorectal,36.7,1127,3071185
+45-54 years,2000-2005,Connecticut,Remaining values,5.7,174,3071185
+45-54 years,2000-2005,Iowa,Stomach,4.6,116,2498707
+45-54 years,2000-2005,Iowa,Colorectal,33.8,848,2498707
+45-54 years,2000-2005,Iowa,Remaining values,5.7,142,2498707
+45-54 years,2000-2005,New Mexico,Stomach,5.8,92,1578870
+45-54 years,2000-2005,New Mexico,Colorectal,32.0,510,1578870
+45-54 years,2000-2005,New Mexico,Remaining values,4.0,64,1578870
+45-54 years,2000-2005,Utah,Stomach,3.9,62,1573486
+45-54 years,2000-2005,Utah,Colorectal,29.6,464,1573486
+45-54 years,2000-2005,Utah,Remaining values,5.7,89,1573486
+45-54 years,2000-2005,Kentucky,Stomach,5.0,179,3538907
+45-54 years,2000-2005,Kentucky,Colorectal,44.1,1572,3538907
+45-54 years,2000-2005,Kentucky,Remaining values,7.0,249,3538907
+45-54 years,2000-2005,Louisiana,Stomach,6.7,250,3737999
+45-54 years,2000-2005,Louisiana,Colorectal,45.8,1715,3737999
+45-54 years,2000-2005,Louisiana,Remaining values,6.2,233,3737999
+45-54 years,2000-2005,New Jersey,Stomach,6.5,482,7382972
+45-54 years,2000-2005,New Jersey,Colorectal,36.6,2705,7382972
+45-54 years,2000-2005,New Jersey,Remaining values,5.3,392,7382972
+45-54 years,2000-2005,Remaining values,Stomach,^,^,0
+45-54 years,2000-2005,Remaining values,Colorectal,^,^,0
+45-54 years,2000-2005,Remaining values,Remaining values,^,^,0
+45-54 years,2006-2010,Connecticut,Stomach,7.3,208,2824171
+45-54 years,2006-2010,Connecticut,Colorectal,35.4,1011,2824171
+45-54 years,2006-2010,Connecticut,Remaining values,5.7,162,2824171
+45-54 years,2006-2010,Iowa,Stomach,4.2,94,2203651
+45-54 years,2006-2010,Iowa,Colorectal,36.5,820,2203651
+45-54 years,2006-2010,Iowa,Remaining values,5.1,113,2203651
+45-54 years,2006-2010,New Mexico,Stomach,7.4,108,1445424
+45-54 years,2006-2010,New Mexico,Colorectal,34.9,514,1445424
+45-54 years,2006-2010,New Mexico,Remaining values,4.4,64,1445424
+45-54 years,2006-2010,Utah,Stomach,3.5,53,1504164
+45-54 years,2006-2010,Utah,Colorectal,32.6,499,1504164
+45-54 years,2006-2010,Utah,Remaining values,4.4,67,1504164
+45-54 years,2006-2010,Kentucky,Stomach,5.4,174,3177923
+45-54 years,2006-2010,Kentucky,Colorectal,44.9,1448,3177923
+45-54 years,2006-2010,Kentucky,Remaining values,6.6,213,3177923
+45-54 years,2006-2010,Louisiana,Stomach,8.0,262,3233438
+45-54 years,2006-2010,Louisiana,Colorectal,46.3,1521,3233438
+45-54 years,2006-2010,Louisiana,Remaining values,6.3,206,3233438
+45-54 years,2006-2010,New Jersey,Stomach,6.1,414,6750128
+45-54 years,2006-2010,New Jersey,Colorectal,36.2,2458,6750128
+45-54 years,2006-2010,New Jersey,Remaining values,5.2,356,6750128
+45-54 years,2006-2010,Remaining values,Stomach,^,^,0
+45-54 years,2006-2010,Remaining values,Colorectal,^,^,0
+45-54 years,2006-2010,Remaining values,Remaining values,^,^,0
+45-54 years,2011-2015,Connecticut,Stomach,6.7,191,2798836
+45-54 years,2011-2015,Connecticut,Colorectal,37.1,1071,2798836
+45-54 years,2011-2015,Connecticut,Remaining values,6.3,183,2798836
+45-54 years,2011-2015,Iowa,Stomach,4.1,90,2079836
+45-54 years,2011-2015,Iowa,Colorectal,40.6,875,2079836
+45-54 years,2011-2015,Iowa,Remaining values,7.3,157,2079836
+45-54 years,2011-2015,New Mexico,Stomach,6.6,90,1364532
+45-54 years,2011-2015,New Mexico,Colorectal,37.4,527,1364532
+45-54 years,2011-2015,New Mexico,Remaining values,5.2,71,1364532
+45-54 years,2011-2015,Utah,Stomach,4.0,62,1537548
+45-54 years,2011-2015,Utah,Colorectal,34.7,548,1537548
+45-54 years,2011-2015,Utah,Remaining values,5.3,84,1537548
+45-54 years,2011-2015,Kentucky,Stomach,6.4,207,3115152
+45-54 years,2011-2015,Kentucky,Colorectal,45.5,1466,3115152
+45-54 years,2011-2015,Kentucky,Remaining values,8.6,275,3115152
+45-54 years,2011-2015,Louisiana,Stomach,8.0,257,3122288
+45-54 years,2011-2015,Louisiana,Colorectal,50.2,1621,3122288
+45-54 years,2011-2015,Louisiana,Remaining values,6.9,222,3122288
+45-54 years,2011-2015,New Jersey,Stomach,6.9,478,6832679
+45-54 years,2011-2015,New Jersey,Colorectal,36.4,2551,6832679
+45-54 years,2011-2015,New Jersey,Remaining values,5.7,399,6832679
+45-54 years,2011-2015,Remaining values,Stomach,^,^,0
+45-54 years,2011-2015,Remaining values,Colorectal,^,^,0
+45-54 years,2011-2015,Remaining values,Remaining values,^,^,0
+45-54 years,2016-2020,Connecticut,Stomach,6.2,160,2517106
+45-54 years,2016-2020,Connecticut,Colorectal,38.7,1007,2517106
+45-54 years,2016-2020,Connecticut,Remaining values,6.7,176,2517106
+45-54 years,2016-2020,Iowa,Stomach,4.1,79,1884458
+45-54 years,2016-2020,Iowa,Colorectal,43.9,844,1884458
+45-54 years,2016-2020,Iowa,Remaining values,6.3,120,1884458
+45-54 years,2016-2020,New Mexico,Stomach,6.2,77,1220691
+45-54 years,2016-2020,New Mexico,Colorectal,44.1,553,1220691
+45-54 years,2016-2020,New Mexico,Remaining values,5.6,69,1220691
+45-54 years,2016-2020,Utah,Stomach,4.7,77,1639395
+45-54 years,2016-2020,Utah,Colorectal,36.6,601,1639395
+45-54 years,2016-2020,Utah,Remaining values,5.9,97,1639395
+45-54 years,2016-2020,Kentucky,Stomach,6.8,204,2920623
+45-54 years,2016-2020,Kentucky,Colorectal,51.7,1547,2920623
+45-54 years,2016-2020,Kentucky,Remaining values,8.3,246,2920623
+45-54 years,2016-2020,Louisiana,Stomach,6.6,193,2836729
+45-54 years,2016-2020,Louisiana,Colorectal,54.6,1598,2836729
+45-54 years,2016-2020,Louisiana,Remaining values,9.3,267,2836729
+45-54 years,2016-2020,New Jersey,Stomach,6.2,406,6425063
+45-54 years,2016-2020,New Jersey,Colorectal,38.7,2566,6425063
+45-54 years,2016-2020,New Jersey,Remaining values,6.4,417,6425063
+45-54 years,2016-2020,Remaining values,Stomach,^,^,0
+45-54 years,2016-2020,Remaining values,Colorectal,^,^,0
+45-54 years,2016-2020,Remaining values,Remaining values,^,^,0
+55-64 years,2000-2005,Connecticut,Stomach,15.0,309,2081379
+55-64 years,2000-2005,Connecticut,Colorectal,92.6,1908,2081379
+55-64 years,2000-2005,Connecticut,Remaining values,14.7,302,2081379
+55-64 years,2000-2005,Iowa,Stomach,10.1,171,1690700
+55-64 years,2000-2005,Iowa,Colorectal,91.6,1550,1690700
+55-64 years,2000-2005,Iowa,Remaining values,16.7,282,1690700
+55-64 years,2000-2005,New Mexico,Stomach,13.1,142,1088536
+55-64 years,2000-2005,New Mexico,Colorectal,73.1,795,1088536
+55-64 years,2000-2005,New Mexico,Remaining values,11.4,124,1088536
+55-64 years,2000-2005,Utah,Stomach,10.7,105,986280
+55-64 years,2000-2005,Utah,Colorectal,69.0,676,986280
+55-64 years,2000-2005,Utah,Remaining values,13.5,132,986280
+55-64 years,2000-2005,Kentucky,Stomach,13.1,326,2485752
+55-64 years,2000-2005,Kentucky,Colorectal,104.9,2605,2485752
+55-64 years,2000-2005,Kentucky,Remaining values,16.5,410,2485752
+55-64 years,2000-2005,Louisiana,Stomach,15.8,396,2511205
+55-64 years,2000-2005,Louisiana,Colorectal,106.5,2668,2511205
+55-64 years,2000-2005,Louisiana,Remaining values,16.6,415,2511205
+55-64 years,2000-2005,New Jersey,Stomach,17.4,866,5014473
+55-64 years,2000-2005,New Jersey,Colorectal,93.4,4661,5014473
+55-64 years,2000-2005,New Jersey,Remaining values,16.1,801,5014473
+55-64 years,2000-2005,Remaining values,Stomach,^,^,0
+55-64 years,2000-2005,Remaining values,Colorectal,^,^,0
+55-64 years,2000-2005,Remaining values,Remaining values,^,^,0
+55-64 years,2006-2010,Connecticut,Stomach,14.5,305,2098189
+55-64 years,2006-2010,Connecticut,Colorectal,61.2,1287,2098189
+55-64 years,2006-2010,Connecticut,Remaining values,12.7,267,2098189
+55-64 years,2006-2010,Iowa,Stomach,11.7,203,1745501
+55-64 years,2006-2010,Iowa,Colorectal,71.7,1249,1745501
+55-64 years,2006-2010,Iowa,Remaining values,13.9,242,1745501
+55-64 years,2006-2010,New Mexico,Stomach,13.0,156,1198627
+55-64 years,2006-2010,New Mexico,Colorectal,67.9,815,1198627
+55-64 years,2006-2010,New Mexico,Remaining values,11.5,138,1198627
+55-64 years,2006-2010,Utah,Stomach,9.3,102,1107254
+55-64 years,2006-2010,Utah,Colorectal,58.1,642,1107254
+55-64 years,2006-2010,Utah,Remaining values,13.8,153,1107254
+55-64 years,2006-2010,Kentucky,Stomach,11.8,301,2546931
+55-64 years,2006-2010,Kentucky,Colorectal,92.4,2357,2546931
+55-64 years,2006-2010,Kentucky,Remaining values,16.8,429,2546931
+55-64 years,2006-2010,Louisiana,Stomach,14.9,374,2505894
+55-64 years,2006-2010,Louisiana,Colorectal,102.2,2560,2505894
+55-64 years,2006-2010,Louisiana,Remaining values,16.5,413,2505894
+55-64 years,2006-2010,New Jersey,Stomach,15.0,744,4964322
+55-64 years,2006-2010,New Jersey,Colorectal,71.1,3534,4964322
+55-64 years,2006-2010,New Jersey,Remaining values,11.8,588,4964322
+55-64 years,2006-2010,Remaining values,Stomach,^,^,0
+55-64 years,2006-2010,Remaining values,Colorectal,^,^,0
+55-64 years,2006-2010,Remaining values,Remaining values,^,^,0
+55-64 years,2011-2015,Connecticut,Stomach,14.9,359,2407609
+55-64 years,2011-2015,Connecticut,Colorectal,55.6,1339,2407609
+55-64 years,2011-2015,Connecticut,Remaining values,10.7,258,2407609
+55-64 years,2011-2015,Iowa,Stomach,9.1,186,2009477
+55-64 years,2011-2015,Iowa,Colorectal,66.6,1344,2009477
+55-64 years,2011-2015,Iowa,Remaining values,13.9,283,2009477
+55-64 years,2011-2015,New Mexico,Stomach,11.9,163,1347342
+55-64 years,2011-2015,New Mexico,Colorectal,62.7,853,1347342
+55-64 years,2011-2015,New Mexico,Remaining values,12.5,172,1347342
+55-64 years,2011-2015,Utah,Stomach,9.2,124,1346416
+55-64 years,2011-2015,Utah,Colorectal,45.1,609,1346416
+55-64 years,2011-2015,Utah,Remaining values,10.5,142,1346416
+55-64 years,2011-2015,Kentucky,Stomach,15.3,442,2866738
+55-64 years,2011-2015,Kentucky,Colorectal,85.9,2479,2866738
+55-64 years,2011-2015,Kentucky,Remaining values,17.8,516,2866738
+55-64 years,2011-2015,Louisiana,Stomach,15.2,441,2890931
+55-64 years,2011-2015,Louisiana,Colorectal,89.3,2595,2890931
+55-64 years,2011-2015,Louisiana,Remaining values,13.6,395,2890931
+55-64 years,2011-2015,New Jersey,Stomach,14.6,838,5714925
+55-64 years,2011-2015,New Jersey,Colorectal,67.1,3843,5714925
+55-64 years,2011-2015,New Jersey,Remaining values,11.9,683,5714925
+55-64 years,2011-2015,Remaining values,Stomach,^,^,0
+55-64 years,2011-2015,Remaining values,Colorectal,^,^,0
+55-64 years,2011-2015,Remaining values,Remaining values,^,^,0
+55-64 years,2016-2020,Connecticut,Stomach,13.3,349,2599225
+55-64 years,2016-2020,Connecticut,Colorectal,52.9,1382,2599225
+55-64 years,2016-2020,Connecticut,Remaining values,10.6,278,2599225
+55-64 years,2016-2020,Iowa,Stomach,10.0,214,2095090
+55-64 years,2016-2020,Iowa,Colorectal,60.8,1285,2095090
+55-64 years,2016-2020,Iowa,Remaining values,10.5,224,2095090
+55-64 years,2016-2020,New Mexico,Stomach,14.2,197,1373352
+55-64 years,2016-2020,New Mexico,Colorectal,62.7,868,1373352
+55-64 years,2016-2020,New Mexico,Remaining values,11.6,162,1373352
+55-64 years,2016-2020,Utah,Stomach,8.3,127,1504366
+55-64 years,2016-2020,Utah,Colorectal,43.9,666,1504366
+55-64 years,2016-2020,Utah,Remaining values,10.1,153,1504366
+55-64 years,2016-2020,Kentucky,Stomach,12.9,391,3000776
+55-64 years,2016-2020,Kentucky,Colorectal,82.6,2504,3000776
+55-64 years,2016-2020,Kentucky,Remaining values,16.7,508,3000776
+55-64 years,2016-2020,Louisiana,Stomach,16.4,503,3028113
+55-64 years,2016-2020,Louisiana,Colorectal,84.9,2596,3028113
+55-64 years,2016-2020,Louisiana,Remaining values,13.9,428,3028113
+55-64 years,2016-2020,New Jersey,Stomach,14.8,942,6283246
+55-64 years,2016-2020,New Jersey,Colorectal,62.8,3969,6283246
+55-64 years,2016-2020,New Jersey,Remaining values,11.0,695,6283246
+55-64 years,2016-2020,Remaining values,Stomach,^,^,0
+55-64 years,2016-2020,Remaining values,Colorectal,^,^,0
+55-64 years,2016-2020,Remaining values,Remaining values,^,^,0
+65-74 years,2000-2005,Connecticut,Stomach,36.4,495,1358993
+65-74 years,2000-2005,Connecticut,Colorectal,190.4,2590,1358993
+65-74 years,2000-2005,Connecticut,Remaining values,40.3,548,1358993
+65-74 years,2000-2005,Iowa,Stomach,21.5,268,1247712
+65-74 years,2000-2005,Iowa,Colorectal,203.5,2539,1247712
+65-74 years,2000-2005,Iowa,Remaining values,41.5,518,1247712
+65-74 years,2000-2005,New Mexico,Stomach,31.1,229,739924
+65-74 years,2000-2005,New Mexico,Colorectal,151.0,1111,739924
+65-74 years,2000-2005,New Mexico,Remaining values,32.2,236,739924
+65-74 years,2000-2005,Utah,Stomach,17.5,112,640808
+65-74 years,2000-2005,Utah,Colorectal,133.3,852,640808
+65-74 years,2000-2005,Utah,Remaining values,30.6,194,640808
+65-74 years,2000-2005,Kentucky,Stomach,22.9,379,1665122
+65-74 years,2000-2005,Kentucky,Colorectal,213.0,3527,1665122
+65-74 years,2000-2005,Kentucky,Remaining values,43.3,715,1665122
+65-74 years,2000-2005,Louisiana,Stomach,31.2,524,1693122
+65-74 years,2000-2005,Louisiana,Colorectal,203.0,3426,1693122
+65-74 years,2000-2005,Louisiana,Remaining values,37.0,624,1693122
+65-74 years,2000-2005,New Jersey,Stomach,37.4,1262,3377063
+65-74 years,2000-2005,New Jersey,Colorectal,200.5,6767,3377063
+65-74 years,2000-2005,New Jersey,Remaining values,39.0,1317,3377063
+65-74 years,2000-2005,Remaining values,Stomach,^,^,0
+65-74 years,2000-2005,Remaining values,Colorectal,^,^,0
+65-74 years,2000-2005,Remaining values,Remaining values,^,^,0
+65-74 years,2006-2010,Connecticut,Stomach,32.7,387,1200064
+65-74 years,2006-2010,Connecticut,Colorectal,141.1,1666,1200064
+65-74 years,2006-2010,Connecticut,Remaining values,33.4,393,1200064
+65-74 years,2006-2010,Iowa,Stomach,21.4,231,1085312
+65-74 years,2006-2010,Iowa,Colorectal,165.3,1778,1085312
+65-74 years,2006-2010,Iowa,Remaining values,37.5,404,1085312
+65-74 years,2006-2010,New Mexico,Stomach,25.2,178,722147
+65-74 years,2006-2010,New Mexico,Colorectal,127.5,912,722147
+65-74 years,2006-2010,New Mexico,Remaining values,25.9,184,722147
+65-74 years,2006-2010,Utah,Stomach,18.0,114,642396
+65-74 years,2006-2010,Utah,Colorectal,109.4,696,642396
+65-74 years,2006-2010,Utah,Remaining values,27.7,174,642396
+65-74 years,2006-2010,Kentucky,Stomach,24.3,374,1550598
+65-74 years,2006-2010,Kentucky,Colorectal,177.7,2724,1550598
+65-74 years,2006-2010,Kentucky,Remaining values,40.2,614,1550598
+65-74 years,2006-2010,Louisiana,Stomach,35.5,518,1480347
+65-74 years,2006-2010,Louisiana,Colorectal,179.6,2635,1480347
+65-74 years,2006-2010,Louisiana,Remaining values,33.9,493,1480347
+65-74 years,2006-2010,New Jersey,Stomach,34.8,1002,2923957
+65-74 years,2006-2010,New Jersey,Colorectal,149.0,4299,2923957
+65-74 years,2006-2010,New Jersey,Remaining values,30.6,879,2923957
+65-74 years,2006-2010,Remaining values,Stomach,^,^,0
+65-74 years,2006-2010,Remaining values,Colorectal,^,^,0
+65-74 years,2006-2010,Remaining values,Remaining values,^,^,0
+65-74 years,2011-2015,Connecticut,Stomach,34.0,484,1471795
+65-74 years,2011-2015,Connecticut,Colorectal,103.5,1499,1471795
+65-74 years,2011-2015,Connecticut,Remaining values,24.8,356,1471795
+65-74 years,2011-2015,Iowa,Stomach,18.8,237,1244246
+65-74 years,2011-2015,Iowa,Colorectal,122.0,1488,1244246
+65-74 years,2011-2015,Iowa,Remaining values,32.2,393,1244246
+65-74 years,2011-2015,New Mexico,Stomach,27.2,236,888113
+65-74 years,2011-2015,New Mexico,Colorectal,97.3,851,888113
+65-74 years,2011-2015,New Mexico,Remaining values,21.5,184,888113
+65-74 years,2011-2015,Utah,Stomach,16.9,134,811835
+65-74 years,2011-2015,Utah,Colorectal,82.5,656,811835
+65-74 years,2011-2015,Utah,Remaining values,24.1,190,811835
+65-74 years,2011-2015,Kentucky,Stomach,26.2,469,1839761
+65-74 years,2011-2015,Kentucky,Colorectal,154.7,2810,1839761
+65-74 years,2011-2015,Kentucky,Remaining values,31.4,572,1839761
+65-74 years,2011-2015,Louisiana,Stomach,29.4,513,1771939
+65-74 years,2011-2015,Louisiana,Colorectal,148.7,2617,1771939
+65-74 years,2011-2015,Louisiana,Remaining values,30.4,531,1771939
+65-74 years,2011-2015,New Jersey,Stomach,30.8,1072,3521201
+65-74 years,2011-2015,New Jersey,Colorectal,124.5,4302,3521201
+65-74 years,2011-2015,New Jersey,Remaining values,25.0,854,3521201
+65-74 years,2011-2015,Remaining values,Stomach,^,^,0
+65-74 years,2011-2015,Remaining values,Colorectal,^,^,0
+65-74 years,2011-2015,Remaining values,Remaining values,^,^,0
+65-74 years,2016-2020,Connecticut,Stomach,28.4,478,1721272
+65-74 years,2016-2020,Connecticut,Colorectal,85.6,1462,1721272
+65-74 years,2016-2020,Connecticut,Remaining values,21.1,361,1721272
+65-74 years,2016-2020,Iowa,Stomach,18.7,277,1501844
+65-74 years,2016-2020,Iowa,Colorectal,105.5,1555,1501844
+65-74 years,2016-2020,Iowa,Remaining values,25.8,381,1501844
+65-74 years,2016-2020,New Mexico,Stomach,22.3,239,1082723
+65-74 years,2016-2020,New Mexico,Colorectal,85.0,918,1082723
+65-74 years,2016-2020,New Mexico,Remaining values,18.6,196,1082723
+65-74 years,2016-2020,Utah,Stomach,16.1,164,1042837
+65-74 years,2016-2020,Utah,Colorectal,74.5,766,1042837
+65-74 years,2016-2020,Utah,Remaining values,19.5,200,1042837
+65-74 years,2016-2020,Kentucky,Stomach,25.3,544,2174239
+65-74 years,2016-2020,Kentucky,Colorectal,132.4,2856,2174239
+65-74 years,2016-2020,Kentucky,Remaining values,29.2,624,2174239
+65-74 years,2016-2020,Louisiana,Stomach,24.8,524,2129852
+65-74 years,2016-2020,Louisiana,Colorectal,135.0,2866,2129852
+65-74 years,2016-2020,Louisiana,Remaining values,29.4,623,2129852
+65-74 years,2016-2020,New Jersey,Stomach,27.6,1143,4179158
+65-74 years,2016-2020,New Jersey,Colorectal,107.1,4419,4179158
+65-74 years,2016-2020,New Jersey,Remaining values,20.9,862,4179158
+65-74 years,2016-2020,Remaining values,Stomach,^,^,0
+65-74 years,2016-2020,Remaining values,Colorectal,^,^,0
+65-74 years,2016-2020,Remaining values,Remaining values,^,^,0
+75+ years,2000-2005,Connecticut,Stomach,61.9,921,1478716
+75+ years,2000-2005,Connecticut,Colorectal,311.5,4636,1478716
+75+ years,2000-2005,Connecticut,Remaining values,79.7,1195,1478716
+75+ years,2000-2005,Iowa,Stomach,37.2,513,1365067
+75+ years,2000-2005,Iowa,Colorectal,338.8,4672,1365067
+75+ years,2000-2005,Iowa,Remaining values,89.3,1239,1365067
+75+ years,2000-2005,New Mexico,Stomach,50.1,304,605440
+75+ years,2000-2005,New Mexico,Colorectal,223.5,1352,605440
+75+ years,2000-2005,New Mexico,Remaining values,54.7,332,605440
+75+ years,2000-2005,Utah,Stomach,37.7,213,562916
+75+ years,2000-2005,Utah,Colorectal,208.0,1171,562916
+75+ years,2000-2005,Utah,Remaining values,59.6,337,562916
+75+ years,2000-2005,Kentucky,Stomach,38.0,537,1416618
+75+ years,2000-2005,Kentucky,Colorectal,308.1,4364,1416618
+75+ years,2000-2005,Kentucky,Remaining values,78.5,1111,1416618
+75+ years,2000-2005,Louisiana,Stomach,58.2,835,1439370
+75+ years,2000-2005,Louisiana,Colorectal,288.2,4145,1439370
+75+ years,2000-2005,Louisiana,Remaining values,69.9,1002,1439370
+75+ years,2000-2005,New Jersey,Stomach,62.6,2090,3326538
+75+ years,2000-2005,New Jersey,Colorectal,342.7,11434,3326538
+75+ years,2000-2005,New Jersey,Remaining values,81.6,2730,3326538
+75+ years,2000-2005,Remaining values,Stomach,^,^,0
+75+ years,2000-2005,Remaining values,Colorectal,^,^,0
+75+ years,2000-2005,Remaining values,Remaining values,^,^,0
+75+ years,2006-2010,Connecticut,Stomach,53.4,682,1259113
+75+ years,2006-2010,Connecticut,Colorectal,243.5,3147,1259113
+75+ years,2006-2010,Connecticut,Remaining values,64.2,830,1259113
+75+ years,2006-2010,Iowa,Stomach,31.4,363,1145873
+75+ years,2006-2010,Iowa,Colorectal,273.0,3184,1145873
+75+ years,2006-2010,Iowa,Remaining values,72.9,860,1145873
+75+ years,2006-2010,New Mexico,Stomach,47.1,270,571546
+75+ years,2006-2010,New Mexico,Colorectal,186.7,1070,571546
+75+ years,2006-2010,New Mexico,Remaining values,49.2,283,571546
+75+ years,2006-2010,Utah,Stomach,27.4,148,534991
+75+ years,2006-2010,Utah,Colorectal,154.4,830,534991
+75+ years,2006-2010,Utah,Remaining values,49.5,268,534991
+75+ years,2006-2010,Kentucky,Stomach,37.4,469,1247111
+75+ years,2006-2010,Kentucky,Colorectal,259.6,3252,1247111
+75+ years,2006-2010,Kentucky,Remaining values,71.3,898,1247111
+75+ years,2006-2010,Louisiana,Stomach,49.3,598,1207891
+75+ years,2006-2010,Louisiana,Colorectal,233.3,2824,1207891
+75+ years,2006-2010,Louisiana,Remaining values,61.2,739,1207891
+75+ years,2006-2010,New Jersey,Stomach,56.5,1637,2858676
+75+ years,2006-2010,New Jersey,Colorectal,271.0,7873,2858676
+75+ years,2006-2010,New Jersey,Remaining values,64.6,1891,2858676
+75+ years,2006-2010,Remaining values,Stomach,^,^,0
+75+ years,2006-2010,Remaining values,Colorectal,^,^,0
+75+ years,2006-2010,Remaining values,Remaining values,^,^,0
+75+ years,2011-2015,Connecticut,Stomach,51.2,648,1242231
+75+ years,2011-2015,Connecticut,Colorectal,188.9,2416,1242231
+75+ years,2011-2015,Connecticut,Remaining values,49.7,642,1242231
+75+ years,2011-2015,Iowa,Stomach,30.8,354,1143541
+75+ years,2011-2015,Iowa,Colorectal,233.5,2719,1143541
+75+ years,2011-2015,Iowa,Remaining values,67.6,791,1143541
+75+ years,2011-2015,New Mexico,Stomach,44.1,280,632310
+75+ years,2011-2015,New Mexico,Colorectal,151.5,965,632310
+75+ years,2011-2015,New Mexico,Remaining values,37.8,239,632310
+75+ years,2011-2015,Utah,Stomach,27.8,165,592214
+75+ years,2011-2015,Utah,Colorectal,131.9,791,592214
+75+ years,2011-2015,Utah,Remaining values,44.1,264,592214
+75+ years,2011-2015,Kentucky,Stomach,38.3,500,1310827
+75+ years,2011-2015,Kentucky,Colorectal,224.3,2958,1310827
+75+ years,2011-2015,Kentucky,Remaining values,60.0,788,1310827
+75+ years,2011-2015,Louisiana,Stomach,42.7,548,1278830
+75+ years,2011-2015,Louisiana,Colorectal,195.8,2511,1278830
+75+ years,2011-2015,Louisiana,Remaining values,47.8,614,1278830
+75+ years,2011-2015,New Jersey,Stomach,51.7,1547,2931524
+75+ years,2011-2015,New Jersey,Colorectal,216.0,6479,2931524
+75+ years,2011-2015,New Jersey,Remaining values,53.6,1607,2931524
+75+ years,2011-2015,Remaining values,Stomach,^,^,0
+75+ years,2011-2015,Remaining values,Colorectal,^,^,0
+75+ years,2011-2015,Remaining values,Remaining values,^,^,0
+75+ years,2016-2020,Connecticut,Stomach,44.0,568,1284454
+75+ years,2016-2020,Connecticut,Colorectal,152.4,1996,1284454
+75+ years,2016-2020,Connecticut,Remaining values,42.6,569,1284454
+75+ years,2016-2020,Iowa,Stomach,24.2,281,1171474
+75+ years,2016-2020,Iowa,Colorectal,193.2,2312,1171474
+75+ years,2016-2020,Iowa,Remaining values,55.3,662,1171474
+75+ years,2016-2020,New Mexico,Stomach,35.9,259,720795
+75+ years,2016-2020,New Mexico,Colorectal,133.3,964,720795
+75+ years,2016-2020,New Mexico,Remaining values,35.1,253,720795
+75+ years,2016-2020,Utah,Stomach,30.1,205,681789
+75+ years,2016-2020,Utah,Colorectal,108.1,740,681789
+75+ years,2016-2020,Utah,Remaining values,36.4,250,681789
+75+ years,2016-2020,Kentucky,Stomach,33.9,488,1434675
+75+ years,2016-2020,Kentucky,Colorectal,192.9,2773,1434675
+75+ years,2016-2020,Kentucky,Remaining values,50.4,725,1434675
+75+ years,2016-2020,Louisiana,Stomach,37.3,528,1406703
+75+ years,2016-2020,Louisiana,Colorectal,164.2,2312,1406703
+75+ years,2016-2020,Louisiana,Remaining values,42.9,605,1406703
+75+ years,2016-2020,New Jersey,Stomach,45.7,1439,3136971
+75+ years,2016-2020,New Jersey,Colorectal,179.0,5706,3136971
+75+ years,2016-2020,New Jersey,Remaining values,44.9,1439,3136971
+75+ years,2016-2020,Remaining values,Stomach,^,^,0
+75+ years,2016-2020,Remaining values,Colorectal,^,^,0
+75+ years,2016-2020,Remaining values,Remaining values,^,^,0
