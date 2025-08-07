@@ -43,3 +43,94 @@ ca %>%
        y = "Cancer Rate per 100,000") +
   theme_dark() +
   theme(legend.position = "bottom")
+
+## CDC wonder data
+stom <- read_csv("StomachCAFBFS.csv") %>% 
+     filter(is.na(Notes))
+names(stom) <- c("notes", "state", "state_x", "ageGrp_x", "ageGrp", "year_x", "year", "deaths", "pop", "rate")
+stom <- stom %>% 
+     mutate(year = as.numeric(year),
+            pop = as.numeric(pop),
+            deaths = as.numeric(deaths),
+          rate = deaths / pop * 100000) %>% 
+     filter(ageGrp %in% c("45-54", "55-64", 
+                     "65-74", "75-84", "85+")) %>%
+     select(state, ageGrp, year, deaths, pop, rate) %>% 
+     mutate(IA = state == "Iowa")
+
+# get averarge rates across states, grouped by year and age group
+stom_avg <- stom %>% 
+     group_by(year, ageGrp) %>% 
+     summarise(deaths = sum(deaths, na.rm = TRUE),
+               pop = sum(pop, na.rm = TRUE)) %>% 
+     mutate(rate = deaths/pop * 100000,
+            state = "AVG",
+            IA = TRUE) %>%
+     ungroup() %>% 
+     select(state, ageGrp, year, deaths, pop, rate, IA)
+
+stom <- rbind(stom, stom_avg) %>% 
+     mutate(avg = ifelse(state == "AVG", "Average", "Iowa"))
+
+## Create a line plot for rates over time, with facets for each age group
+## colored by state
+stom %>% 
+     filter(ageGrp != "45-54",
+            state %in% c("Iowa", "AVG"),
+            year != 2025) %>% 
+  ggplot(aes(x = year, y = rate, color = avg, group = state)) +
+  geom_line(lwd = 1) +
+  facet_wrap(~ ageGrp) +
+  scale_color_manual(values = c("gray", "darkblue")) +
+  labs(title = "Stomach Cancer Death Rates by State",
+       subtitle = "Iowa vs. Average of Other FB States",
+       x = "Year of Diagnosis",
+       y = "Death Rate per 100,000") +
+  theme_dark() +
+  theme(legend.position = "bottom")
+
+
+
+## Colorectal
+colr <- read_csv("ColorectalCAFBFS.csv") %>% 
+     filter(is.na(Notes))
+
+names(colr) <- c("notes", "state", "state_x", "ageGrp_x", "ageGrp", "year_x", "year", "deaths", "pop", "rate")
+colr <- colr %>% 
+     mutate(year = as.numeric(year),
+            pop = as.numeric(pop),
+            deaths = as.numeric(deaths),
+          rate = deaths / pop * 100000) %>% 
+     filter(ageGrp %in% c("45-54", "55-64", 
+                     "65-74", "75-84", "85+")) %>%
+     select(state, ageGrp, year, deaths, pop, rate) %>% 
+     mutate(IA = state == "Iowa")
+# get averarge rates across states, grouped by year and age group
+colr_avg <- colr %>% 
+     group_by(year, ageGrp) %>% 
+     summarise(deaths = sum(deaths, na.rm = TRUE),
+               pop = sum(pop, na.rm = TRUE)) %>% 
+     mutate(rate = deaths/pop * 100000,
+            state = "AVG",
+            IA = TRUE) %>%
+     ungroup() %>% 
+     select(state, ageGrp, year, deaths, pop, rate, IA)
+
+colr <- rbind(colr, colr_avg) %>%
+     mutate(avg = ifelse(state == "AVG", "Average", "Iowa"))     
+
+colr %>% 
+     filter(ageGrp != "85+",
+               state %in% c("Iowa", "AVG"),
+            year != 2025) %>% 
+  ggplot(aes(x = year, y = rate, color = avg, group = state)) +
+  geom_line(lwd = 1) +
+  facet_wrap(~ ageGrp) +
+  scale_color_manual(values = c("gray", "darkblue")) +
+  labs(title = "Colorectal Cancer Death Rates by State",
+       subtitle = "Iowa vs. Average of Other FB States",
+       x = "Year of Diagnosis",
+       y = "Death Rate per 100,000") +
+  theme_dark() +
+  theme(legend.position = "bottom")
+

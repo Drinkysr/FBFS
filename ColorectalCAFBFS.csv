@@ -1,0 +1,1606 @@
+"Notes","Residence State","Residence State Code","Ten-Year Age Groups","Ten-Year Age Groups Code","Year","Year Code",Deaths,Population,Crude Rate
+,"Arizona","04","< 1 year","1","2018","2018",0,83553,Unreliable
+,"Arizona","04","< 1 year","1","2019","2019",0,81929,Unreliable
+,"Arizona","04","< 1 year","1","2020","2020",0,81409,Unreliable
+,"Arizona","04","< 1 year","1","2021","2021",0,76130,Unreliable
+,"Arizona","04","< 1 year","1","2022","2022",0,78579,Unreliable
+,"Arizona","04","< 1 year","1","2023","2023",0,78075,Unreliable
+,"Arizona","04","< 1 year","1","2024 (provisional)","2024",0,78075,Unreliable
+,"Arizona","04","< 1 year","1","2025 (provisional and partial)","2025",0,78075,Unreliable
+,"Arizona","04","1-4 years","1-4","2018","2018",0,352383,Unreliable
+,"Arizona","04","1-4 years","1-4","2019","2019",0,347859,Unreliable
+,"Arizona","04","1-4 years","1-4","2020","2020",0,343346,Unreliable
+,"Arizona","04","1-4 years","1-4","2021","2021",0,325726,Unreliable
+,"Arizona","04","1-4 years","1-4","2022","2022",0,316427,Unreliable
+,"Arizona","04","1-4 years","1-4","2023","2023",0,315456,Unreliable
+,"Arizona","04","1-4 years","1-4","2024 (provisional)","2024",0,315456,Unreliable
+,"Arizona","04","1-4 years","1-4","2025 (provisional and partial)","2025",0,315456,Unreliable
+,"Arizona","04","5-14 years","5-14","2018","2018",0,928147,Unreliable
+,"Arizona","04","5-14 years","5-14","2019","2019",0,930745,Unreliable
+,"Arizona","04","5-14 years","5-14","2020","2020",0,937060,Unreliable
+,"Arizona","04","5-14 years","5-14","2021","2021",0,922621,Unreliable
+,"Arizona","04","5-14 years","5-14","2022","2022",0,901508,Unreliable
+,"Arizona","04","5-14 years","5-14","2023","2023",0,892088,Unreliable
+,"Arizona","04","5-14 years","5-14","2024 (provisional)","2024",0,892088,Unreliable
+,"Arizona","04","5-14 years","5-14","2025 (provisional and partial)","2025",0,892088,Unreliable
+,"Arizona","04","15-24 years","15-24","2018","2018",Suppressed,965970,Suppressed
+,"Arizona","04","15-24 years","15-24","2019","2019",Suppressed,973547,Suppressed
+,"Arizona","04","15-24 years","15-24","2020","2020",Suppressed,986272,Suppressed
+,"Arizona","04","15-24 years","15-24","2021","2021",Suppressed,974943,Suppressed
+,"Arizona","04","15-24 years","15-24","2022","2022",Suppressed,1012056,Suppressed
+,"Arizona","04","15-24 years","15-24","2023","2023",Suppressed,1001814,Suppressed
+,"Arizona","04","15-24 years","15-24","2024 (provisional)","2024",Suppressed,1001814,Suppressed
+,"Arizona","04","15-24 years","15-24","2025 (provisional and partial)","2025",Suppressed,1001814,Suppressed
+,"Arizona","04","25-34 years","25-34","2018","2018",Suppressed,985845,Suppressed
+,"Arizona","04","25-34 years","25-34","2019","2019",10,1007093,Unreliable
+,"Arizona","04","25-34 years","25-34","2020","2020",Suppressed,1030830,Suppressed
+,"Arizona","04","25-34 years","25-34","2021","2021",Suppressed,1001092,Suppressed
+,"Arizona","04","25-34 years","25-34","2022","2022",Suppressed,1018332,Suppressed
+,"Arizona","04","25-34 years","25-34","2023","2023",Suppressed,1027029,Suppressed
+,"Arizona","04","25-34 years","25-34","2024 (provisional)","2024",Suppressed,1027029,Suppressed
+,"Arizona","04","25-34 years","25-34","2025 (provisional and partial)","2025",Suppressed,1027029,Suppressed
+,"Arizona","04","35-44 years","35-44","2018","2018",27,880431,3.067
+,"Arizona","04","35-44 years","35-44","2019","2019",34,896027,3.795
+,"Arizona","04","35-44 years","35-44","2020","2020",31,913916,3.392
+,"Arizona","04","35-44 years","35-44","2021","2021",31,915192,3.387
+,"Arizona","04","35-44 years","35-44","2022","2022",44,926056,4.751
+,"Arizona","04","35-44 years","35-44","2023","2023",33,943877,3.496
+,"Arizona","04","35-44 years","35-44","2024 (provisional)","2024",40,943877,4.238
+,"Arizona","04","35-44 years","35-44","2025 (provisional and partial)","2025",18,943877,Unreliable
+,"Arizona","04","45-54 years","45-54","2018","2018",103,850790,12.106
+,"Arizona","04","45-54 years","45-54","2019","2019",80,852090,9.389
+,"Arizona","04","45-54 years","45-54","2020","2020",96,859684,11.167
+,"Arizona","04","45-54 years","45-54","2021","2021",121,847681,14.274
+,"Arizona","04","45-54 years","45-54","2022","2022",100,851890,11.739
+,"Arizona","04","45-54 years","45-54","2023","2023",111,858908,12.923
+,"Arizona","04","45-54 years","45-54","2024 (provisional)","2024",114,858908,13.273
+,"Arizona","04","45-54 years","45-54","2025 (provisional and partial)","2025",57,858908,6.636
+,"Arizona","04","55-64 years","55-64","2018","2018",209,866277,24.126
+,"Arizona","04","55-64 years","55-64","2019","2019",217,880794,24.637
+,"Arizona","04","55-64 years","55-64","2020","2020",227,894909,25.366
+,"Arizona","04","55-64 years","55-64","2021","2021",210,879885,23.867
+,"Arizona","04","55-64 years","55-64","2022","2022",224,871963,25.689
+,"Arizona","04","55-64 years","55-64","2023","2023",202,879578,22.966
+,"Arizona","04","55-64 years","55-64","2024 (provisional)","2024",210,879578,23.875
+,"Arizona","04","55-64 years","55-64","2025 (provisional and partial)","2025",114,879578,12.961
+,"Arizona","04","65-74 years","65-74","2018","2018",267,726162,36.769
+,"Arizona","04","65-74 years","65-74","2019","2019",281,751699,37.382
+,"Arizona","04","65-74 years","65-74","2020","2020",302,786905,38.378
+,"Arizona","04","65-74 years","65-74","2021","2021",289,783000,36.909
+,"Arizona","04","65-74 years","65-74","2022","2022",307,780707,39.323
+,"Arizona","04","65-74 years","65-74","2023","2023",338,804936,41.991
+,"Arizona","04","65-74 years","65-74","2024 (provisional)","2024",318,804936,39.506
+,"Arizona","04","65-74 years","65-74","2025 (provisional and partial)","2025",156,804936,19.380
+,"Arizona","04","75-84 years","75-84","2018","2018",273,389813,70.034
+,"Arizona","04","75-84 years","75-84","2019","2019",275,411197,66.878
+,"Arizona","04","75-84 years","75-84","2020","2020",263,434972,60.464
+,"Arizona","04","75-84 years","75-84","2021","2021",280,416355,67.250
+,"Arizona","04","75-84 years","75-84","2022","2022",275,452319,60.798
+,"Arizona","04","75-84 years","75-84","2023","2023",337,480458,70.141
+,"Arizona","04","75-84 years","75-84","2024 (provisional)","2024",331,480458,68.893
+,"Arizona","04","75-84 years","75-84","2025 (provisional and partial)","2025",180,480458,37.464
+,"Arizona","04","85+ years","85+","2018","2018",221,142275,155.333
+,"Arizona","04","85+ years","85+","2019","2019",190,145737,130.372
+,"Arizona","04","85+ years","85+","2020","2020",217,152098,142.671
+,"Arizona","04","85+ years","85+","2021","2021",200,133691,149.599
+,"Arizona","04","85+ years","85+","2022","2022",221,149360,147.965
+,"Arizona","04","85+ years","85+","2023","2023",204,149125,136.798
+,"Arizona","04","85+ years","85+","2024 (provisional)","2024",210,149125,140.821
+,"Arizona","04","85+ years","85+","2025 (provisional and partial)","2025",134,149125,89.858
+,"Arizona","04","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Arizona","04","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Arizona","04","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Arizona","04","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Arizona","04","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Arizona","04","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Arizona","04","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Arizona","04","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Colorado","08","< 1 year","1","2018","2018",0,66125,Unreliable
+,"Colorado","08","< 1 year","1","2019","2019",0,64561,Unreliable
+,"Colorado","08","< 1 year","1","2020","2020",0,63076,Unreliable
+,"Colorado","08","< 1 year","1","2021","2021",0,60341,Unreliable
+,"Colorado","08","< 1 year","1","2022","2022",0,62867,Unreliable
+,"Colorado","08","< 1 year","1","2023","2023",0,62168,Unreliable
+,"Colorado","08","< 1 year","1","2024 (provisional)","2024",0,62168,Unreliable
+,"Colorado","08","< 1 year","1","2025 (provisional and partial)","2025",0,62168,Unreliable
+,"Colorado","08","1-4 years","1-4","2018","2018",0,270729,Unreliable
+,"Colorado","08","1-4 years","1-4","2019","2019",0,267640,Unreliable
+,"Colorado","08","1-4 years","1-4","2020","2020",0,261507,Unreliable
+,"Colorado","08","1-4 years","1-4","2021","2021",0,252819,Unreliable
+,"Colorado","08","1-4 years","1-4","2022","2022",0,246153,Unreliable
+,"Colorado","08","1-4 years","1-4","2023","2023",0,246791,Unreliable
+,"Colorado","08","1-4 years","1-4","2024 (provisional)","2024",0,246791,Unreliable
+,"Colorado","08","1-4 years","1-4","2025 (provisional and partial)","2025",0,246791,Unreliable
+,"Colorado","08","5-14 years","5-14","2018","2018",0,713331,Unreliable
+,"Colorado","08","5-14 years","5-14","2019","2019",0,710322,Unreliable
+,"Colorado","08","5-14 years","5-14","2020","2020",0,706276,Unreliable
+,"Colorado","08","5-14 years","5-14","2021","2021",0,706487,Unreliable
+,"Colorado","08","5-14 years","5-14","2022","2022",0,685113,Unreliable
+,"Colorado","08","5-14 years","5-14","2023","2023",0,680999,Unreliable
+,"Colorado","08","5-14 years","5-14","2024 (provisional)","2024",0,680999,Unreliable
+,"Colorado","08","5-14 years","5-14","2025 (provisional and partial)","2025",0,680999,Unreliable
+,"Colorado","08","15-24 years","15-24","2018","2018",Suppressed,741878,Suppressed
+,"Colorado","08","15-24 years","15-24","2019","2019",Suppressed,743213,Suppressed
+,"Colorado","08","15-24 years","15-24","2020","2020",Suppressed,746655,Suppressed
+,"Colorado","08","15-24 years","15-24","2021","2021",0,751845,Unreliable
+,"Colorado","08","15-24 years","15-24","2022","2022",Suppressed,775499,Suppressed
+,"Colorado","08","15-24 years","15-24","2023","2023",Suppressed,765256,Suppressed
+,"Colorado","08","15-24 years","15-24","2024 (provisional)","2024",0,765256,Unreliable
+,"Colorado","08","15-24 years","15-24","2025 (provisional and partial)","2025",0,765256,Unreliable
+,"Colorado","08","25-34 years","25-34","2018","2018",Suppressed,894422,Suppressed
+,"Colorado","08","25-34 years","25-34","2019","2019",Suppressed,913354,Suppressed
+,"Colorado","08","25-34 years","25-34","2020","2020",10,924010,Unreliable
+,"Colorado","08","25-34 years","25-34","2021","2021",Suppressed,908724,Suppressed
+,"Colorado","08","25-34 years","25-34","2022","2022",Suppressed,915481,Suppressed
+,"Colorado","08","25-34 years","25-34","2023","2023",Suppressed,924103,Suppressed
+,"Colorado","08","25-34 years","25-34","2024 (provisional)","2024",Suppressed,924103,Suppressed
+,"Colorado","08","25-34 years","25-34","2025 (provisional and partial)","2025",Suppressed,924103,Suppressed
+,"Colorado","08","35-44 years","35-44","2018","2018",17,780079,Unreliable
+,"Colorado","08","35-44 years","35-44","2019","2019",23,798071,2.882
+,"Colorado","08","35-44 years","35-44","2020","2020",21,816118,2.573
+,"Colorado","08","35-44 years","35-44","2021","2021",32,839814,3.810
+,"Colorado","08","35-44 years","35-44","2022","2022",24,847768,2.831
+,"Colorado","08","35-44 years","35-44","2023","2023",25,864386,2.892
+,"Colorado","08","35-44 years","35-44","2024 (provisional)","2024",25,864386,2.892
+,"Colorado","08","35-44 years","35-44","2025 (provisional and partial)","2025",17,864386,Unreliable
+,"Colorado","08","45-54 years","45-54","2018","2018",64,710171,9.012
+,"Colorado","08","45-54 years","45-54","2019","2019",63,706150,8.922
+,"Colorado","08","45-54 years","45-54","2020","2020",72,704945,10.214
+,"Colorado","08","45-54 years","45-54","2021","2021",75,710167,10.561
+,"Colorado","08","45-54 years","45-54","2022","2022",73,709151,10.294
+,"Colorado","08","45-54 years","45-54","2023","2023",65,714267,9.100
+,"Colorado","08","45-54 years","45-54","2024 (provisional)","2024",84,714267,11.760
+,"Colorado","08","45-54 years","45-54","2025 (provisional and partial)","2025",58,714267,8.120
+,"Colorado","08","55-64 years","55-64","2018","2018",129,710600,18.154
+,"Colorado","08","55-64 years","55-64","2019","2019",127,713013,17.812
+,"Colorado","08","55-64 years","55-64","2020","2020",139,708745,19.612
+,"Colorado","08","55-64 years","55-64","2021","2021",151,702219,21.503
+,"Colorado","08","55-64 years","55-64","2022","2022",143,683856,20.911
+,"Colorado","08","55-64 years","55-64","2023","2023",143,676625,21.134
+,"Colorado","08","55-64 years","55-64","2024 (provisional)","2024",135,676625,19.952
+,"Colorado","08","55-64 years","55-64","2025 (provisional and partial)","2025",88,676625,13.006
+,"Colorado","08","65-74 years","65-74","2018","2018",155,500798,30.951
+,"Colorado","08","65-74 years","65-74","2019","2019",154,522131,29.495
+,"Colorado","08","65-74 years","65-74","2020","2020",169,543363,31.103
+,"Colorado","08","65-74 years","65-74","2021","2021",195,558844,34.893
+,"Colorado","08","65-74 years","65-74","2022","2022",182,560039,32.498
+,"Colorado","08","65-74 years","65-74","2023","2023",193,575044,33.563
+,"Colorado","08","65-74 years","65-74","2024 (provisional)","2024",193,575044,33.563
+,"Colorado","08","65-74 years","65-74","2025 (provisional and partial)","2025",87,575044,15.129
+,"Colorado","08","75-84 years","75-84","2018","2018",162,219067,73.950
+,"Colorado","08","75-84 years","75-84","2019","2019",161,230360,69.891
+,"Colorado","08","75-84 years","75-84","2020","2020",169,241734,69.912
+,"Colorado","08","75-84 years","75-84","2021","2021",148,239521,61.790
+,"Colorado","08","75-84 years","75-84","2022","2022",172,264472,65.035
+,"Colorado","08","75-84 years","75-84","2023","2023",176,281688,62.480
+,"Colorado","08","75-84 years","75-84","2024 (provisional)","2024",156,281688,55.380
+,"Colorado","08","75-84 years","75-84","2025 (provisional and partial)","2025",97,281688,34.435
+,"Colorado","08","85+ years","85+","2018","2018",134,88364,151.645
+,"Colorado","08","85+ years","85+","2019","2019",141,89921,156.804
+,"Colorado","08","85+ years","85+","2020","2020",140,91290,153.357
+,"Colorado","08","85+ years","85+","2021","2021",166,81288,204.212
+,"Colorado","08","85+ years","85+","2022","2022",114,89527,127.336
+,"Colorado","08","85+ years","85+","2023","2023",119,86283,137.918
+,"Colorado","08","85+ years","85+","2024 (provisional)","2024",134,86283,155.303
+,"Colorado","08","85+ years","85+","2025 (provisional and partial)","2025",70,86283,81.128
+,"Colorado","08","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Colorado","08","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Colorado","08","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Colorado","08","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Colorado","08","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Colorado","08","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Colorado","08","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Colorado","08","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Idaho","16","< 1 year","1","2018","2018",0,22348,Unreliable
+,"Idaho","16","< 1 year","1","2019","2019",0,22106,Unreliable
+,"Idaho","16","< 1 year","1","2020","2020",0,21547,Unreliable
+,"Idaho","16","< 1 year","1","2021","2021",0,21203,Unreliable
+,"Idaho","16","< 1 year","1","2022","2022",0,22368,Unreliable
+,"Idaho","16","< 1 year","1","2023","2023",0,22331,Unreliable
+,"Idaho","16","< 1 year","1","2024 (provisional)","2024",0,22331,Unreliable
+,"Idaho","16","< 1 year","1","2025 (provisional and partial)","2025",0,22331,Unreliable
+,"Idaho","16","1-4 years","1-4","2018","2018",0,93991,Unreliable
+,"Idaho","16","1-4 years","1-4","2019","2019",0,94094,Unreliable
+,"Idaho","16","1-4 years","1-4","2020","2020",0,92301,Unreliable
+,"Idaho","16","1-4 years","1-4","2021","2021",0,93121,Unreliable
+,"Idaho","16","1-4 years","1-4","2022","2022",0,90915,Unreliable
+,"Idaho","16","1-4 years","1-4","2023","2023",0,91052,Unreliable
+,"Idaho","16","1-4 years","1-4","2024 (provisional)","2024",0,91052,Unreliable
+,"Idaho","16","1-4 years","1-4","2025 (provisional and partial)","2025",0,91052,Unreliable
+,"Idaho","16","5-14 years","5-14","2018","2018",0,254001,Unreliable
+,"Idaho","16","5-14 years","5-14","2019","2019",0,254788,Unreliable
+,"Idaho","16","5-14 years","5-14","2020","2020",0,257827,Unreliable
+,"Idaho","16","5-14 years","5-14","2021","2021",0,269948,Unreliable
+,"Idaho","16","5-14 years","5-14","2022","2022",0,264735,Unreliable
+,"Idaho","16","5-14 years","5-14","2023","2023",0,265565,Unreliable
+,"Idaho","16","5-14 years","5-14","2024 (provisional)","2024",0,265565,Unreliable
+,"Idaho","16","5-14 years","5-14","2025 (provisional and partial)","2025",0,265565,Unreliable
+,"Idaho","16","15-24 years","15-24","2018","2018",0,239400,Unreliable
+,"Idaho","16","15-24 years","15-24","2019","2019",0,241619,Unreliable
+,"Idaho","16","15-24 years","15-24","2020","2020",0,247113,Unreliable
+,"Idaho","16","15-24 years","15-24","2021","2021",0,258343,Unreliable
+,"Idaho","16","15-24 years","15-24","2022","2022",0,281317,Unreliable
+,"Idaho","16","15-24 years","15-24","2023","2023",0,282067,Unreliable
+,"Idaho","16","15-24 years","15-24","2024 (provisional)","2024",0,282067,Unreliable
+,"Idaho","16","15-24 years","15-24","2025 (provisional and partial)","2025",0,282067,Unreliable
+,"Idaho","16","25-34 years","25-34","2018","2018",0,231382,Unreliable
+,"Idaho","16","25-34 years","25-34","2019","2019",Suppressed,236490,Suppressed
+,"Idaho","16","25-34 years","25-34","2020","2020",Suppressed,241578,Suppressed
+,"Idaho","16","25-34 years","25-34","2021","2021",Suppressed,248864,Suppressed
+,"Idaho","16","25-34 years","25-34","2022","2022",Suppressed,251203,Suppressed
+,"Idaho","16","25-34 years","25-34","2023","2023",Suppressed,254531,Suppressed
+,"Idaho","16","25-34 years","25-34","2024 (provisional)","2024",Suppressed,254531,Suppressed
+,"Idaho","16","25-34 years","25-34","2025 (provisional and partial)","2025",0,254531,Unreliable
+,"Idaho","16","35-44 years","35-44","2018","2018",10,220029,Unreliable
+,"Idaho","16","35-44 years","35-44","2019","2019",Suppressed,227172,Suppressed
+,"Idaho","16","35-44 years","35-44","2020","2020",Suppressed,234230,Suppressed
+,"Idaho","16","35-44 years","35-44","2021","2021",Suppressed,249386,Suppressed
+,"Idaho","16","35-44 years","35-44","2022","2022",10,252364,Unreliable
+,"Idaho","16","35-44 years","35-44","2023","2023",10,257368,Unreliable
+,"Idaho","16","35-44 years","35-44","2024 (provisional)","2024",Suppressed,257368,Suppressed
+,"Idaho","16","35-44 years","35-44","2025 (provisional and partial)","2025",Suppressed,257368,Suppressed
+,"Idaho","16","45-54 years","45-54","2018","2018",22,199925,11.004
+,"Idaho","16","45-54 years","45-54","2019","2019",27,201766,13.382
+,"Idaho","16","45-54 years","45-54","2020","2020",25,205499,12.166
+,"Idaho","16","45-54 years","45-54","2021","2021",28,215984,12.964
+,"Idaho","16","45-54 years","45-54","2022","2022",25,219580,11.385
+,"Idaho","16","45-54 years","45-54","2023","2023",31,224778,13.791
+,"Idaho","16","45-54 years","45-54","2024 (provisional)","2024",20,224778,8.898
+,"Idaho","16","45-54 years","45-54","2025 (provisional and partial)","2025",12,224778,Unreliable
+,"Idaho","16","55-64 years","55-64","2018","2018",56,214850,26.065
+,"Idaho","16","55-64 years","55-64","2019","2019",48,218360,21.982
+,"Idaho","16","55-64 years","55-64","2020","2020",39,220824,17.661
+,"Idaho","16","55-64 years","55-64","2021","2021",56,228618,24.495
+,"Idaho","16","55-64 years","55-64","2022","2022",58,226099,25.652
+,"Idaho","16","55-64 years","55-64","2023","2023",46,225904,20.363
+,"Idaho","16","55-64 years","55-64","2024 (provisional)","2024",58,225904,25.675
+,"Idaho","16","55-64 years","55-64","2025 (provisional and partial)","2025",22,225904,9.739
+,"Idaho","16","65-74 years","65-74","2018","2018",70,168241,41.607
+,"Idaho","16","65-74 years","65-74","2019","2019",61,175866,34.685
+,"Idaho","16","65-74 years","65-74","2020","2020",55,185942,29.579
+,"Idaho","16","65-74 years","65-74","2021","2021",72,197346,36.484
+,"Idaho","16","65-74 years","65-74","2022","2022",64,199485,32.083
+,"Idaho","16","65-74 years","65-74","2023","2023",57,205013,27.803
+,"Idaho","16","65-74 years","65-74","2024 (provisional)","2024",81,205013,39.510
+,"Idaho","16","65-74 years","65-74","2025 (provisional and partial)","2025",46,205013,22.438
+,"Idaho","16","75-84 years","75-84","2018","2018",58,80622,71.941
+,"Idaho","16","75-84 years","75-84","2019","2019",60,85030,70.563
+,"Idaho","16","75-84 years","75-84","2020","2020",64,89638,71.398
+,"Idaho","16","75-84 years","75-84","2021","2021",82,90494,90.614
+,"Idaho","16","75-84 years","75-84","2022","2022",70,99666,70.235
+,"Idaho","16","75-84 years","75-84","2023","2023",77,105707,72.843
+,"Idaho","16","75-84 years","75-84","2024 (provisional)","2024",71,105707,67.167
+,"Idaho","16","75-84 years","75-84","2025 (provisional and partial)","2025",42,105707,39.732
+,"Idaho","16","85+ years","85+","2018","2018",54,29419,183.555
+,"Idaho","16","85+ years","85+","2019","2019",47,29774,157.856
+,"Idaho","16","85+ years","85+","2020","2020",41,30414,134.806
+,"Idaho","16","85+ years","85+","2021","2021",56,27616,202.781
+,"Idaho","16","85+ years","85+","2022","2022",40,31301,127.791
+,"Idaho","16","85+ years","85+","2023","2023",54,30410,177.573
+,"Idaho","16","85+ years","85+","2024 (provisional)","2024",58,30410,190.727
+,"Idaho","16","85+ years","85+","2025 (provisional and partial)","2025",28,30410,92.075
+,"Idaho","16","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Idaho","16","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Idaho","16","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Idaho","16","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Idaho","16","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Idaho","16","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Idaho","16","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Idaho","16","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Iowa","19","< 1 year","1","2018","2018",0,38291,Unreliable
+,"Iowa","19","< 1 year","1","2019","2019",0,37540,Unreliable
+,"Iowa","19","< 1 year","1","2020","2020",0,36974,Unreliable
+,"Iowa","19","< 1 year","1","2021","2021",0,35621,Unreliable
+,"Iowa","19","< 1 year","1","2022","2022",0,36786,Unreliable
+,"Iowa","19","< 1 year","1","2023","2023",0,36766,Unreliable
+,"Iowa","19","< 1 year","1","2024 (provisional)","2024",0,36766,Unreliable
+,"Iowa","19","< 1 year","1","2025 (provisional and partial)","2025",0,36766,Unreliable
+,"Iowa","19","1-4 years","1-4","2018","2018",0,159927,Unreliable
+,"Iowa","19","1-4 years","1-4","2019","2019",0,158096,Unreliable
+,"Iowa","19","1-4 years","1-4","2020","2020",0,155608,Unreliable
+,"Iowa","19","1-4 years","1-4","2021","2021",0,153435,Unreliable
+,"Iowa","19","1-4 years","1-4","2022","2022",0,149414,Unreliable
+,"Iowa","19","1-4 years","1-4","2023","2023",0,149273,Unreliable
+,"Iowa","19","1-4 years","1-4","2024 (provisional)","2024",0,149273,Unreliable
+,"Iowa","19","1-4 years","1-4","2025 (provisional and partial)","2025",0,149273,Unreliable
+,"Iowa","19","5-14 years","5-14","2018","2018",0,409679,Unreliable
+,"Iowa","19","5-14 years","5-14","2019","2019",0,408495,Unreliable
+,"Iowa","19","5-14 years","5-14","2020","2020",0,409002,Unreliable
+,"Iowa","19","5-14 years","5-14","2021","2021",0,417424,Unreliable
+,"Iowa","19","5-14 years","5-14","2022","2022",0,408072,Unreliable
+,"Iowa","19","5-14 years","5-14","2023","2023",0,409598,Unreliable
+,"Iowa","19","5-14 years","5-14","2024 (provisional)","2024",0,409598,Unreliable
+,"Iowa","19","5-14 years","5-14","2025 (provisional and partial)","2025",0,409598,Unreliable
+,"Iowa","19","15-24 years","15-24","2018","2018",0,441900,Unreliable
+,"Iowa","19","15-24 years","15-24","2019","2019",0,436415,Unreliable
+,"Iowa","19","15-24 years","15-24","2020","2020",0,437831,Unreliable
+,"Iowa","19","15-24 years","15-24","2021","2021",0,446098,Unreliable
+,"Iowa","19","15-24 years","15-24","2022","2022",0,458710,Unreliable
+,"Iowa","19","15-24 years","15-24","2023","2023",0,453609,Unreliable
+,"Iowa","19","15-24 years","15-24","2024 (provisional)","2024",0,453609,Unreliable
+,"Iowa","19","15-24 years","15-24","2025 (provisional and partial)","2025",Suppressed,453609,Suppressed
+,"Iowa","19","25-34 years","25-34","2018","2018",Suppressed,397715,Suppressed
+,"Iowa","19","25-34 years","25-34","2019","2019",Suppressed,398150,Suppressed
+,"Iowa","19","25-34 years","25-34","2020","2020",Suppressed,398796,Suppressed
+,"Iowa","19","25-34 years","25-34","2021","2021",Suppressed,397565,Suppressed
+,"Iowa","19","25-34 years","25-34","2022","2022",Suppressed,398236,Suppressed
+,"Iowa","19","25-34 years","25-34","2023","2023",Suppressed,400063,Suppressed
+,"Iowa","19","25-34 years","25-34","2024 (provisional)","2024",Suppressed,400063,Suppressed
+,"Iowa","19","25-34 years","25-34","2025 (provisional and partial)","2025",Suppressed,400063,Suppressed
+,"Iowa","19","35-44 years","35-44","2018","2018",10,379935,Unreliable
+,"Iowa","19","35-44 years","35-44","2019","2019",11,385215,Unreliable
+,"Iowa","19","35-44 years","35-44","2020","2020",Suppressed,390589,Suppressed
+,"Iowa","19","35-44 years","35-44","2021","2021",15,403510,Unreliable
+,"Iowa","19","35-44 years","35-44","2022","2022",22,402238,5.469
+,"Iowa","19","35-44 years","35-44","2023","2023",16,404474,Unreliable
+,"Iowa","19","35-44 years","35-44","2024 (provisional)","2024",17,404474,Unreliable
+,"Iowa","19","35-44 years","35-44","2025 (provisional and partial)","2025",11,404474,Unreliable
+,"Iowa","19","45-54 years","45-54","2018","2018",37,371331,9.964
+,"Iowa","19","45-54 years","45-54","2019","2019",36,362509,9.931
+,"Iowa","19","45-54 years","45-54","2020","2020",44,357591,12.305
+,"Iowa","19","45-54 years","45-54","2021","2021",47,361963,12.985
+,"Iowa","19","45-54 years","45-54","2022","2022",46,359453,12.797
+,"Iowa","19","45-54 years","45-54","2023","2023",47,361790,12.991
+,"Iowa","19","45-54 years","45-54","2024 (provisional)","2024",53,361790,14.649
+,"Iowa","19","45-54 years","45-54","2025 (provisional and partial)","2025",26,361790,7.186
+,"Iowa","19","55-64 years","55-64","2018","2018",82,417537,19.639
+,"Iowa","19","55-64 years","55-64","2019","2019",86,415696,20.688
+,"Iowa","19","55-64 years","55-64","2020","2020",83,411034,20.193
+,"Iowa","19","55-64 years","55-64","2021","2021",82,412190,19.894
+,"Iowa","19","55-64 years","55-64","2022","2022",106,401578,26.396
+,"Iowa","19","55-64 years","55-64","2023","2023",98,395594,24.773
+,"Iowa","19","55-64 years","55-64","2024 (provisional)","2024",83,395594,20.981
+,"Iowa","19","55-64 years","55-64","2025 (provisional and partial)","2025",48,395594,12.134
+,"Iowa","19","65-74 years","65-74","2018","2018",141,300873,46.864
+,"Iowa","19","65-74 years","65-74","2019","2019",135,311447,43.346
+,"Iowa","19","65-74 years","65-74","2020","2020",130,323349,40.204
+,"Iowa","19","65-74 years","65-74","2021","2021",132,336104,39.274
+,"Iowa","19","65-74 years","65-74","2022","2022",122,337487,36.150
+,"Iowa","19","65-74 years","65-74","2023","2023",127,345975,36.708
+,"Iowa","19","65-74 years","65-74","2024 (provisional)","2024",139,345975,40.176
+,"Iowa","19","65-74 years","65-74","2025 (provisional and partial)","2025",74,345975,21.389
+,"Iowa","19","75-84 years","75-84","2018","2018",159,159866,99.458
+,"Iowa","19","75-84 years","75-84","2019","2019",144,162833,88.434
+,"Iowa","19","75-84 years","75-84","2020","2020",130,164692,78.935
+,"Iowa","19","75-84 years","75-84","2021","2021",128,159823,80.089
+,"Iowa","19","75-84 years","75-84","2022","2022",143,172281,83.004
+,"Iowa","19","75-84 years","75-84","2023","2023",115,178377,64.470
+,"Iowa","19","75-84 years","75-84","2024 (provisional)","2024",137,178377,76.804
+,"Iowa","19","75-84 years","75-84","2025 (provisional and partial)","2025",56,178377,31.394
+,"Iowa","19","85+ years","85+","2018","2018",164,79091,207.356
+,"Iowa","19","85+ years","85+","2019","2019",131,78674,166.510
+,"Iowa","19","85+ years","85+","2020","2020",146,78095,186.952
+,"Iowa","19","85+ years","85+","2021","2021",129,69346,186.024
+,"Iowa","19","85+ years","85+","2022","2022",131,76262,171.776
+,"Iowa","19","85+ years","85+","2023","2023",139,71485,194.446
+,"Iowa","19","85+ years","85+","2024 (provisional)","2024",133,71485,186.053
+,"Iowa","19","85+ years","85+","2025 (provisional and partial)","2025",67,71485,93.726
+,"Iowa","19","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Iowa","19","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Iowa","19","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Iowa","19","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Iowa","19","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Iowa","19","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Iowa","19","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Iowa","19","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Kansas","20","< 1 year","1","2018","2018",0,36439,Unreliable
+,"Kansas","20","< 1 year","1","2019","2019",0,35325,Unreliable
+,"Kansas","20","< 1 year","1","2020","2020",0,35281,Unreliable
+,"Kansas","20","< 1 year","1","2021","2021",0,33442,Unreliable
+,"Kansas","20","< 1 year","1","2022","2022",0,34772,Unreliable
+,"Kansas","20","< 1 year","1","2023","2023",0,34590,Unreliable
+,"Kansas","20","< 1 year","1","2024 (provisional)","2024",0,34590,Unreliable
+,"Kansas","20","< 1 year","1","2025 (provisional and partial)","2025",0,34590,Unreliable
+,"Kansas","20","1-4 years","1-4","2018","2018",0,152896,Unreliable
+,"Kansas","20","1-4 years","1-4","2019","2019",0,150006,Unreliable
+,"Kansas","20","1-4 years","1-4","2020","2020",0,147823,Unreliable
+,"Kansas","20","1-4 years","1-4","2021","2021",0,144705,Unreliable
+,"Kansas","20","1-4 years","1-4","2022","2022",0,140670,Unreliable
+,"Kansas","20","1-4 years","1-4","2023","2023",0,140398,Unreliable
+,"Kansas","20","1-4 years","1-4","2024 (provisional)","2024",0,140398,Unreliable
+,"Kansas","20","1-4 years","1-4","2025 (provisional and partial)","2025",0,140398,Unreliable
+,"Kansas","20","5-14 years","5-14","2018","2018",0,398067,Unreliable
+,"Kansas","20","5-14 years","5-14","2019","2019",0,396266,Unreliable
+,"Kansas","20","5-14 years","5-14","2020","2020",0,394315,Unreliable
+,"Kansas","20","5-14 years","5-14","2021","2021",0,401276,Unreliable
+,"Kansas","20","5-14 years","5-14","2022","2022",0,392051,Unreliable
+,"Kansas","20","5-14 years","5-14","2023","2023",0,392566,Unreliable
+,"Kansas","20","5-14 years","5-14","2024 (provisional)","2024",0,392566,Unreliable
+,"Kansas","20","5-14 years","5-14","2025 (provisional and partial)","2025",0,392566,Unreliable
+,"Kansas","20","15-24 years","15-24","2018","2018",0,413294,Unreliable
+,"Kansas","20","15-24 years","15-24","2019","2019",0,412813,Unreliable
+,"Kansas","20","15-24 years","15-24","2020","2020",0,411069,Unreliable
+,"Kansas","20","15-24 years","15-24","2021","2021",Suppressed,417462,Suppressed
+,"Kansas","20","15-24 years","15-24","2022","2022",0,430860,Unreliable
+,"Kansas","20","15-24 years","15-24","2023","2023",0,426443,Unreliable
+,"Kansas","20","15-24 years","15-24","2024 (provisional)","2024",0,426443,Unreliable
+,"Kansas","20","15-24 years","15-24","2025 (provisional and partial)","2025",0,426443,Unreliable
+,"Kansas","20","25-34 years","25-34","2018","2018",Suppressed,382884,Suppressed
+,"Kansas","20","25-34 years","25-34","2019","2019",Suppressed,382922,Suppressed
+,"Kansas","20","25-34 years","25-34","2020","2020",Suppressed,381528,Suppressed
+,"Kansas","20","25-34 years","25-34","2021","2021",Suppressed,377898,Suppressed
+,"Kansas","20","25-34 years","25-34","2022","2022",Suppressed,376350,Suppressed
+,"Kansas","20","25-34 years","25-34","2023","2023",Suppressed,376652,Suppressed
+,"Kansas","20","25-34 years","25-34","2024 (provisional)","2024",Suppressed,376652,Suppressed
+,"Kansas","20","25-34 years","25-34","2025 (provisional and partial)","2025",Suppressed,376652,Suppressed
+,"Kansas","20","35-44 years","35-44","2018","2018",10,356322,Unreliable
+,"Kansas","20","35-44 years","35-44","2019","2019",12,361029,Unreliable
+,"Kansas","20","35-44 years","35-44","2020","2020",16,365011,Unreliable
+,"Kansas","20","35-44 years","35-44","2021","2021",17,376302,Unreliable
+,"Kansas","20","35-44 years","35-44","2022","2022",16,376397,Unreliable
+,"Kansas","20","35-44 years","35-44","2023","2023",15,379479,Unreliable
+,"Kansas","20","35-44 years","35-44","2024 (provisional)","2024",Suppressed,379479,Suppressed
+,"Kansas","20","35-44 years","35-44","2025 (provisional and partial)","2025",10,379479,Unreliable
+,"Kansas","20","45-54 years","45-54","2018","2018",55,335937,16.372
+,"Kansas","20","45-54 years","45-54","2019","2019",37,327961,11.282
+,"Kansas","20","45-54 years","45-54","2020","2020",41,323727,12.665
+,"Kansas","20","45-54 years","45-54","2021","2021",42,327806,12.812
+,"Kansas","20","45-54 years","45-54","2022","2022",47,327300,14.360
+,"Kansas","20","45-54 years","45-54","2023","2023",47,329515,14.263
+,"Kansas","20","45-54 years","45-54","2024 (provisional)","2024",41,329515,12.443
+,"Kansas","20","45-54 years","45-54","2025 (provisional and partial)","2025",22,329515,6.676
+,"Kansas","20","55-64 years","55-64","2018","2018",96,373425,25.708
+,"Kansas","20","55-64 years","55-64","2019","2019",96,371505,25.841
+,"Kansas","20","55-64 years","55-64","2020","2020",103,366735,28.086
+,"Kansas","20","55-64 years","55-64","2021","2021",77,366053,21.035
+,"Kansas","20","55-64 years","55-64","2022","2022",117,354733,32.983
+,"Kansas","20","55-64 years","55-64","2023","2023",84,347509,24.172
+,"Kansas","20","55-64 years","55-64","2024 (provisional)","2024",107,347509,30.791
+,"Kansas","20","55-64 years","55-64","2025 (provisional and partial)","2025",38,347509,10.935
+,"Kansas","20","65-74 years","65-74","2018","2018",123,262857,46.794
+,"Kansas","20","65-74 years","65-74","2019","2019",91,272236,33.427
+,"Kansas","20","65-74 years","65-74","2020","2020",141,282458,49.919
+,"Kansas","20","65-74 years","65-74","2021","2021",130,294178,44.191
+,"Kansas","20","65-74 years","65-74","2022","2022",111,295510,37.562
+,"Kansas","20","65-74 years","65-74","2023","2023",126,302607,41.638
+,"Kansas","20","65-74 years","65-74","2024 (provisional)","2024",124,302607,40.977
+,"Kansas","20","65-74 years","65-74","2025 (provisional and partial)","2025",73,302607,24.124
+,"Kansas","20","75-84 years","75-84","2018","2018",117,133848,87.413
+,"Kansas","20","75-84 years","75-84","2019","2019",115,137573,83.592
+,"Kansas","20","75-84 years","75-84","2020","2020",105,140371,74.802
+,"Kansas","20","75-84 years","75-84","2021","2021",117,137320,85.202
+,"Kansas","20","75-84 years","75-84","2022","2022",113,147510,76.605
+,"Kansas","20","75-84 years","75-84","2023","2023",120,153245,78.306
+,"Kansas","20","75-84 years","75-84","2024 (provisional)","2024",123,153245,80.264
+,"Kansas","20","75-84 years","75-84","2025 (provisional and partial)","2025",61,153245,39.806
+,"Kansas","20","85+ years","85+","2018","2018",110,65536,167.847
+,"Kansas","20","85+ years","85+","2019","2019",93,65678,141.600
+,"Kansas","20","85+ years","85+","2020","2020",117,65487,178.661
+,"Kansas","20","85+ years","85+","2021","2021",86,58140,147.919
+,"Kansas","20","85+ years","85+","2022","2022",96,60997,157.385
+,"Kansas","20","85+ years","85+","2023","2023",94,57542,163.359
+,"Kansas","20","85+ years","85+","2024 (provisional)","2024",93,57542,161.621
+,"Kansas","20","85+ years","85+","2025 (provisional and partial)","2025",54,57542,93.844
+,"Kansas","20","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Kansas","20","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Kansas","20","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Kansas","20","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Kansas","20","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Kansas","20","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Kansas","20","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Kansas","20","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Minnesota","27","< 1 year","1","2018","2018",0,68566,Unreliable
+,"Minnesota","27","< 1 year","1","2019","2019",0,67629,Unreliable
+,"Minnesota","27","< 1 year","1","2020","2020",0,66390,Unreliable
+,"Minnesota","27","< 1 year","1","2021","2021",0,62897,Unreliable
+,"Minnesota","27","< 1 year","1","2022","2022",0,64755,Unreliable
+,"Minnesota","27","< 1 year","1","2023","2023",0,63637,Unreliable
+,"Minnesota","27","< 1 year","1","2024 (provisional)","2024",0,63637,Unreliable
+,"Minnesota","27","< 1 year","1","2025 (provisional and partial)","2025",0,63637,Unreliable
+,"Minnesota","27","1-4 years","1-4","2018","2018",0,286725,Unreliable
+,"Minnesota","27","1-4 years","1-4","2019","2019",0,283993,Unreliable
+,"Minnesota","27","1-4 years","1-4","2020","2020",0,279601,Unreliable
+,"Minnesota","27","1-4 years","1-4","2021","2021",0,274607,Unreliable
+,"Minnesota","27","1-4 years","1-4","2022","2022",0,265371,Unreliable
+,"Minnesota","27","1-4 years","1-4","2023","2023",0,264793,Unreliable
+,"Minnesota","27","1-4 years","1-4","2024 (provisional)","2024",0,264793,Unreliable
+,"Minnesota","27","1-4 years","1-4","2025 (provisional and partial)","2025",0,264793,Unreliable
+,"Minnesota","27","5-14 years","5-14","2018","2018",0,731086,Unreliable
+,"Minnesota","27","5-14 years","5-14","2019","2019",0,732593,Unreliable
+,"Minnesota","27","5-14 years","5-14","2020","2020",0,733099,Unreliable
+,"Minnesota","27","5-14 years","5-14","2021","2021",0,749015,Unreliable
+,"Minnesota","27","5-14 years","5-14","2022","2022",0,733444,Unreliable
+,"Minnesota","27","5-14 years","5-14","2023","2023",0,735858,Unreliable
+,"Minnesota","27","5-14 years","5-14","2024 (provisional)","2024",Suppressed,735858,Suppressed
+,"Minnesota","27","5-14 years","5-14","2025 (provisional and partial)","2025",0,735858,Unreliable
+,"Minnesota","27","15-24 years","15-24","2018","2018",0,717874,Unreliable
+,"Minnesota","27","15-24 years","15-24","2019","2019",0,717060,Unreliable
+,"Minnesota","27","15-24 years","15-24","2020","2020",0,715966,Unreliable
+,"Minnesota","27","15-24 years","15-24","2021","2021",0,728577,Unreliable
+,"Minnesota","27","15-24 years","15-24","2022","2022",Suppressed,745332,Suppressed
+,"Minnesota","27","15-24 years","15-24","2023","2023",Suppressed,743439,Suppressed
+,"Minnesota","27","15-24 years","15-24","2024 (provisional)","2024",0,743439,Unreliable
+,"Minnesota","27","15-24 years","15-24","2025 (provisional and partial)","2025",0,743439,Unreliable
+,"Minnesota","27","25-34 years","25-34","2018","2018",Suppressed,760925,Suppressed
+,"Minnesota","27","25-34 years","25-34","2019","2019",Suppressed,762616,Suppressed
+,"Minnesota","27","25-34 years","25-34","2020","2020",Suppressed,760397,Suppressed
+,"Minnesota","27","25-34 years","25-34","2021","2021",Suppressed,748317,Suppressed
+,"Minnesota","27","25-34 years","25-34","2022","2022",12,740688,Unreliable
+,"Minnesota","27","25-34 years","25-34","2023","2023",Suppressed,738130,Suppressed
+,"Minnesota","27","25-34 years","25-34","2024 (provisional)","2024",Suppressed,738130,Suppressed
+,"Minnesota","27","25-34 years","25-34","2025 (provisional and partial)","2025",0,738130,Unreliable
+,"Minnesota","27","35-44 years","35-44","2018","2018",34,710265,4.787
+,"Minnesota","27","35-44 years","35-44","2019","2019",26,725577,3.583
+,"Minnesota","27","35-44 years","35-44","2020","2020",24,739952,3.243
+,"Minnesota","27","35-44 years","35-44","2021","2021",26,767158,3.389
+,"Minnesota","27","35-44 years","35-44","2022","2022",19,771968,Unreliable
+,"Minnesota","27","35-44 years","35-44","2023","2023",24,781476,3.071
+,"Minnesota","27","35-44 years","35-44","2024 (provisional)","2024",30,781476,3.839
+,"Minnesota","27","35-44 years","35-44","2025 (provisional and partial)","2025",14,781476,Unreliable
+,"Minnesota","27","45-54 years","45-54","2018","2018",72,691491,10.412
+,"Minnesota","27","45-54 years","45-54","2019","2019",58,673361,8.614
+,"Minnesota","27","45-54 years","45-54","2020","2020",77,660824,11.652
+,"Minnesota","27","45-54 years","45-54","2021","2021",71,665021,10.676
+,"Minnesota","27","45-54 years","45-54","2022","2022",66,659534,10.007
+,"Minnesota","27","45-54 years","45-54","2023","2023",76,661837,11.483
+,"Minnesota","27","45-54 years","45-54","2024 (provisional)","2024",82,661837,12.390
+,"Minnesota","27","45-54 years","45-54","2025 (provisional and partial)","2025",42,661837,6.346
+,"Minnesota","27","55-64 years","55-64","2018","2018",128,754445,16.966
+,"Minnesota","27","55-64 years","55-64","2019","2019",145,756421,19.169
+,"Minnesota","27","55-64 years","55-64","2020","2020",115,752272,15.287
+,"Minnesota","27","55-64 years","55-64","2021","2021",127,756115,16.796
+,"Minnesota","27","55-64 years","55-64","2022","2022",138,738560,18.685
+,"Minnesota","27","55-64 years","55-64","2023","2023",133,725498,18.332
+,"Minnesota","27","55-64 years","55-64","2024 (provisional)","2024",142,725498,19.573
+,"Minnesota","27","55-64 years","55-64","2025 (provisional and partial)","2025",88,725498,12.130
+,"Minnesota","27","65-74 years","65-74","2018","2018",182,510180,35.674
+,"Minnesota","27","65-74 years","65-74","2019","2019",165,531059,31.070
+,"Minnesota","27","65-74 years","65-74","2020","2020",181,552208,32.778
+,"Minnesota","27","65-74 years","65-74","2021","2021",188,577187,32.572
+,"Minnesota","27","65-74 years","65-74","2022","2022",183,584717,31.297
+,"Minnesota","27","65-74 years","65-74","2023","2023",182,603143,30.175
+,"Minnesota","27","65-74 years","65-74","2024 (provisional)","2024",173,603143,28.683
+,"Minnesota","27","65-74 years","65-74","2025 (provisional and partial)","2025",90,603143,14.922
+,"Minnesota","27","75-84 years","75-84","2018","2018",182,257938,70.560
+,"Minnesota","27","75-84 years","75-84","2019","2019",179,266713,67.113
+,"Minnesota","27","75-84 years","75-84","2020","2020",215,273886,78.500
+,"Minnesota","27","75-84 years","75-84","2021","2021",190,268593,70.739
+,"Minnesota","27","75-84 years","75-84","2022","2022",181,290847,62.232
+,"Minnesota","27","75-84 years","75-84","2023","2023",203,303991,66.778
+,"Minnesota","27","75-84 years","75-84","2024 (provisional)","2024",199,303991,65.462
+,"Minnesota","27","75-84 years","75-84","2025 (provisional and partial)","2025",119,303991,39.146
+,"Minnesota","27","85+ years","85+","2018","2018",208,121684,170.935
+,"Minnesota","27","85+ years","85+","2019","2019",205,122610,167.197
+,"Minnesota","27","85+ years","85+","2020","2020",191,122747,155.605
+,"Minnesota","27","85+ years","85+","2021","2021",203,109903,184.708
+,"Minnesota","27","85+ years","85+","2022","2022",177,121968,145.120
+,"Minnesota","27","85+ years","85+","2023","2023",199,116113,171.385
+,"Minnesota","27","85+ years","85+","2024 (provisional)","2024",220,116113,189.471
+,"Minnesota","27","85+ years","85+","2025 (provisional and partial)","2025",108,116113,93.013
+,"Minnesota","27","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Minnesota","27","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Minnesota","27","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Minnesota","27","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Minnesota","27","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Minnesota","27","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Minnesota","27","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Minnesota","27","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Montana","30","< 1 year","1","2018","2018",0,12099,Unreliable
+,"Montana","30","< 1 year","1","2019","2019",0,11659,Unreliable
+,"Montana","30","< 1 year","1","2020","2020",0,11365,Unreliable
+,"Montana","30","< 1 year","1","2021","2021",0,10555,Unreliable
+,"Montana","30","< 1 year","1","2022","2022",0,11201,Unreliable
+,"Montana","30","< 1 year","1","2023","2023",0,11266,Unreliable
+,"Montana","30","< 1 year","1","2024 (provisional)","2024",0,11266,Unreliable
+,"Montana","30","< 1 year","1","2025 (provisional and partial)","2025",0,11266,Unreliable
+,"Montana","30","1-4 years","1-4","2018","2018",0,50437,Unreliable
+,"Montana","30","1-4 years","1-4","2019","2019",0,49497,Unreliable
+,"Montana","30","1-4 years","1-4","2020","2020",0,48549,Unreliable
+,"Montana","30","1-4 years","1-4","2021","2021",0,47696,Unreliable
+,"Montana","30","1-4 years","1-4","2022","2022",0,46445,Unreliable
+,"Montana","30","1-4 years","1-4","2023","2023",0,46308,Unreliable
+,"Montana","30","1-4 years","1-4","2024 (provisional)","2024",0,46308,Unreliable
+,"Montana","30","1-4 years","1-4","2025 (provisional and partial)","2025",0,46308,Unreliable
+,"Montana","30","5-14 years","5-14","2018","2018",0,128807,Unreliable
+,"Montana","30","5-14 years","5-14","2019","2019",0,129305,Unreliable
+,"Montana","30","5-14 years","5-14","2020","2020",0,130869,Unreliable
+,"Montana","30","5-14 years","5-14","2021","2021",0,135481,Unreliable
+,"Montana","30","5-14 years","5-14","2022","2022",0,134082,Unreliable
+,"Montana","30","5-14 years","5-14","2023","2023",0,134485,Unreliable
+,"Montana","30","5-14 years","5-14","2024 (provisional)","2024",0,134485,Unreliable
+,"Montana","30","5-14 years","5-14","2025 (provisional and partial)","2025",0,134485,Unreliable
+,"Montana","30","15-24 years","15-24","2018","2018",0,136536,Unreliable
+,"Montana","30","15-24 years","15-24","2019","2019",0,135891,Unreliable
+,"Montana","30","15-24 years","15-24","2020","2020",0,136889,Unreliable
+,"Montana","30","15-24 years","15-24","2021","2021",0,141195,Unreliable
+,"Montana","30","15-24 years","15-24","2022","2022",0,147073,Unreliable
+,"Montana","30","15-24 years","15-24","2023","2023",0,145629,Unreliable
+,"Montana","30","15-24 years","15-24","2024 (provisional)","2024",0,145629,Unreliable
+,"Montana","30","15-24 years","15-24","2025 (provisional and partial)","2025",0,145629,Unreliable
+,"Montana","30","25-34 years","25-34","2018","2018",0,137463,Unreliable
+,"Montana","30","25-34 years","25-34","2019","2019",Suppressed,138386,Suppressed
+,"Montana","30","25-34 years","25-34","2020","2020",Suppressed,140617,Suppressed
+,"Montana","30","25-34 years","25-34","2021","2021",0,143355,Unreliable
+,"Montana","30","25-34 years","25-34","2022","2022",Suppressed,146861,Suppressed
+,"Montana","30","25-34 years","25-34","2023","2023",Suppressed,148147,Suppressed
+,"Montana","30","25-34 years","25-34","2024 (provisional)","2024",Suppressed,148147,Suppressed
+,"Montana","30","25-34 years","25-34","2025 (provisional and partial)","2025",0,148147,Unreliable
+,"Montana","30","35-44 years","35-44","2018","2018",Suppressed,126396,Suppressed
+,"Montana","30","35-44 years","35-44","2019","2019",Suppressed,129795,Suppressed
+,"Montana","30","35-44 years","35-44","2020","2020",Suppressed,133684,Suppressed
+,"Montana","30","35-44 years","35-44","2021","2021",Suppressed,140558,Suppressed
+,"Montana","30","35-44 years","35-44","2022","2022",Suppressed,144219,Suppressed
+,"Montana","30","35-44 years","35-44","2023","2023",Suppressed,147330,Suppressed
+,"Montana","30","35-44 years","35-44","2024 (provisional)","2024",Suppressed,147330,Suppressed
+,"Montana","30","35-44 years","35-44","2025 (provisional and partial)","2025",Suppressed,147330,Suppressed
+,"Montana","30","45-54 years","45-54","2018","2018",14,120278,Unreliable
+,"Montana","30","45-54 years","45-54","2019","2019",Suppressed,117800,Suppressed
+,"Montana","30","45-54 years","45-54","2020","2020",13,117092,Unreliable
+,"Montana","30","45-54 years","45-54","2021","2021",12,120739,Unreliable
+,"Montana","30","45-54 years","45-54","2022","2022",17,123294,Unreliable
+,"Montana","30","45-54 years","45-54","2023","2023",12,126083,Unreliable
+,"Montana","30","45-54 years","45-54","2024 (provisional)","2024",16,126083,Unreliable
+,"Montana","30","45-54 years","45-54","2025 (provisional and partial)","2025",11,126083,Unreliable
+,"Montana","30","55-64 years","55-64","2018","2018",31,151387,20.477
+,"Montana","30","55-64 years","55-64","2019","2019",25,150008,16.666
+,"Montana","30","55-64 years","55-64","2020","2020",32,148120,21.604
+,"Montana","30","55-64 years","55-64","2021","2021",30,148269,20.233
+,"Montana","30","55-64 years","55-64","2022","2022",27,144566,18.677
+,"Montana","30","55-64 years","55-64","2023","2023",35,141580,24.721
+,"Montana","30","55-64 years","55-64","2024 (provisional)","2024",30,141580,21.189
+,"Montana","30","55-64 years","55-64","2025 (provisional and partial)","2025",14,141580,Unreliable
+,"Montana","30","65-74 years","65-74","2018","2018",32,119583,26.760
+,"Montana","30","65-74 years","65-74","2019","2019",52,124631,41.723
+,"Montana","30","65-74 years","65-74","2020","2020",45,129574,34.729
+,"Montana","30","65-74 years","65-74","2021","2021",58,135439,42.824
+,"Montana","30","65-74 years","65-74","2022","2022",50,136767,36.559
+,"Montana","30","65-74 years","65-74","2023","2023",55,140615,39.114
+,"Montana","30","65-74 years","65-74","2024 (provisional)","2024",42,140615,29.869
+,"Montana","30","65-74 years","65-74","2025 (provisional and partial)","2025",22,140615,15.646
+,"Montana","30","75-84 years","75-84","2018","2018",47,56624,83.004
+,"Montana","30","75-84 years","75-84","2019","2019",49,58951,83.120
+,"Montana","30","75-84 years","75-84","2020","2020",36,60746,59.263
+,"Montana","30","75-84 years","75-84","2021","2021",49,60197,81.399
+,"Montana","30","75-84 years","75-84","2022","2022",55,65753,83.646
+,"Montana","30","75-84 years","75-84","2023","2023",48,69624,68.942
+,"Montana","30","75-84 years","75-84","2024 (provisional)","2024",41,69624,58.888
+,"Montana","30","75-84 years","75-84","2025 (provisional and partial)","2025",34,69624,48.834
+,"Montana","30","85+ years","85+","2018","2018",33,22695,145.406
+,"Montana","30","85+ years","85+","2019","2019",32,22855,140.013
+,"Montana","30","85+ years","85+","2020","2020",32,23072,138.696
+,"Montana","30","85+ years","85+","2021","2021",42,20787,202.049
+,"Montana","30","85+ years","85+","2022","2022",30,22606,132.708
+,"Montana","30","85+ years","85+","2023","2023",41,21745,188.549
+,"Montana","30","85+ years","85+","2024 (provisional)","2024",49,21745,225.339
+,"Montana","30","85+ years","85+","2025 (provisional and partial)","2025",16,21745,Unreliable
+,"Montana","30","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Montana","30","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Montana","30","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Montana","30","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Montana","30","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Montana","30","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Montana","30","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Montana","30","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Nebraska","31","< 1 year","1","2018","2018",0,25809,Unreliable
+,"Nebraska","31","< 1 year","1","2019","2019",0,25252,Unreliable
+,"Nebraska","31","< 1 year","1","2020","2020",0,24961,Unreliable
+,"Nebraska","31","< 1 year","1","2021","2021",0,23444,Unreliable
+,"Nebraska","31","< 1 year","1","2022","2022",0,24347,Unreliable
+,"Nebraska","31","< 1 year","1","2023","2023",0,24144,Unreliable
+,"Nebraska","31","< 1 year","1","2024 (provisional)","2024",0,24144,Unreliable
+,"Nebraska","31","< 1 year","1","2025 (provisional and partial)","2025",0,24144,Unreliable
+,"Nebraska","31","1-4 years","1-4","2018","2018",0,107159,Unreliable
+,"Nebraska","31","1-4 years","1-4","2019","2019",0,105628,Unreliable
+,"Nebraska","31","1-4 years","1-4","2020","2020",0,103756,Unreliable
+,"Nebraska","31","1-4 years","1-4","2021","2021",0,102346,Unreliable
+,"Nebraska","31","1-4 years","1-4","2022","2022",0,99490,Unreliable
+,"Nebraska","31","1-4 years","1-4","2023","2023",0,99515,Unreliable
+,"Nebraska","31","1-4 years","1-4","2024 (provisional)","2024",0,99515,Unreliable
+,"Nebraska","31","1-4 years","1-4","2025 (provisional and partial)","2025",0,99515,Unreliable
+,"Nebraska","31","5-14 years","5-14","2018","2018",0,265822,Unreliable
+,"Nebraska","31","5-14 years","5-14","2019","2019",0,266296,Unreliable
+,"Nebraska","31","5-14 years","5-14","2020","2020",0,266704,Unreliable
+,"Nebraska","31","5-14 years","5-14","2021","2021",0,273946,Unreliable
+,"Nebraska","31","5-14 years","5-14","2022","2022",0,269501,Unreliable
+,"Nebraska","31","5-14 years","5-14","2023","2023",0,271469,Unreliable
+,"Nebraska","31","5-14 years","5-14","2024 (provisional)","2024",0,271469,Unreliable
+,"Nebraska","31","5-14 years","5-14","2025 (provisional and partial)","2025",0,271469,Unreliable
+,"Nebraska","31","15-24 years","15-24","2018","2018",0,268759,Unreliable
+,"Nebraska","31","15-24 years","15-24","2019","2019",0,268196,Unreliable
+,"Nebraska","31","15-24 years","15-24","2020","2020",0,268225,Unreliable
+,"Nebraska","31","15-24 years","15-24","2021","2021",0,274864,Unreliable
+,"Nebraska","31","15-24 years","15-24","2022","2022",0,280663,Unreliable
+,"Nebraska","31","15-24 years","15-24","2023","2023",0,280718,Unreliable
+,"Nebraska","31","15-24 years","15-24","2024 (provisional)","2024",0,280718,Unreliable
+,"Nebraska","31","15-24 years","15-24","2025 (provisional and partial)","2025",Suppressed,280718,Suppressed
+,"Nebraska","31","25-34 years","25-34","2018","2018",Suppressed,255723,Suppressed
+,"Nebraska","31","25-34 years","25-34","2019","2019",Suppressed,255338,Suppressed
+,"Nebraska","31","25-34 years","25-34","2020","2020",Suppressed,254707,Suppressed
+,"Nebraska","31","25-34 years","25-34","2021","2021",Suppressed,252879,Suppressed
+,"Nebraska","31","25-34 years","25-34","2022","2022",Suppressed,251846,Suppressed
+,"Nebraska","31","25-34 years","25-34","2023","2023",Suppressed,252578,Suppressed
+,"Nebraska","31","25-34 years","25-34","2024 (provisional)","2024",Suppressed,252578,Suppressed
+,"Nebraska","31","25-34 years","25-34","2025 (provisional and partial)","2025",Suppressed,252578,Suppressed
+,"Nebraska","31","35-44 years","35-44","2018","2018",10,239311,Unreliable
+,"Nebraska","31","35-44 years","35-44","2019","2019",Suppressed,243139,Suppressed
+,"Nebraska","31","35-44 years","35-44","2020","2020",Suppressed,246298,Suppressed
+,"Nebraska","31","35-44 years","35-44","2021","2021",12,255699,Unreliable
+,"Nebraska","31","35-44 years","35-44","2022","2022",Suppressed,256829,Suppressed
+,"Nebraska","31","35-44 years","35-44","2023","2023",Suppressed,259635,Suppressed
+,"Nebraska","31","35-44 years","35-44","2024 (provisional)","2024",Suppressed,259635,Suppressed
+,"Nebraska","31","35-44 years","35-44","2025 (provisional and partial)","2025",Suppressed,259635,Suppressed
+,"Nebraska","31","45-54 years","45-54","2018","2018",24,219971,10.911
+,"Nebraska","31","45-54 years","45-54","2019","2019",32,215808,14.828
+,"Nebraska","31","45-54 years","45-54","2020","2020",22,213797,10.290
+,"Nebraska","31","45-54 years","45-54","2021","2021",27,217963,12.387
+,"Nebraska","31","45-54 years","45-54","2022","2022",30,218041,13.759
+,"Nebraska","31","45-54 years","45-54","2023","2023",28,220602,12.693
+,"Nebraska","31","45-54 years","45-54","2024 (provisional)","2024",26,220602,11.786
+,"Nebraska","31","45-54 years","45-54","2025 (provisional and partial)","2025",15,220602,Unreliable
+,"Nebraska","31","55-64 years","55-64","2018","2018",60,243048,24.686
+,"Nebraska","31","55-64 years","55-64","2019","2019",46,242293,18.985
+,"Nebraska","31","55-64 years","55-64","2020","2020",51,239667,21.280
+,"Nebraska","31","55-64 years","55-64","2021","2021",54,240661,22.438
+,"Nebraska","31","55-64 years","55-64","2022","2022",58,234150,24.770
+,"Nebraska","31","55-64 years","55-64","2023","2023",43,230172,18.682
+,"Nebraska","31","55-64 years","55-64","2024 (provisional)","2024",44,230172,19.116
+,"Nebraska","31","55-64 years","55-64","2025 (provisional and partial)","2025",32,230172,13.903
+,"Nebraska","31","65-74 years","65-74","2018","2018",81,172527,46.949
+,"Nebraska","31","65-74 years","65-74","2019","2019",81,178908,45.275
+,"Nebraska","31","65-74 years","65-74","2020","2020",75,185015,40.537
+,"Nebraska","31","65-74 years","65-74","2021","2021",79,193977,40.726
+,"Nebraska","31","65-74 years","65-74","2022","2022",80,195520,40.917
+,"Nebraska","31","65-74 years","65-74","2023","2023",89,200769,44.330
+,"Nebraska","31","65-74 years","65-74","2024 (provisional)","2024",81,200769,40.345
+,"Nebraska","31","65-74 years","65-74","2025 (provisional and partial)","2025",54,200769,26.897
+,"Nebraska","31","75-84 years","75-84","2018","2018",80,88061,90.846
+,"Nebraska","31","75-84 years","75-84","2019","2019",80,90492,88.406
+,"Nebraska","31","75-84 years","75-84","2020","2020",100,91792,108.942
+,"Nebraska","31","75-84 years","75-84","2021","2021",92,89882,102.356
+,"Nebraska","31","75-84 years","75-84","2022","2022",96,96830,99.143
+,"Nebraska","31","75-84 years","75-84","2023","2023",78,101015,77.216
+,"Nebraska","31","75-84 years","75-84","2024 (provisional)","2024",90,101015,89.096
+,"Nebraska","31","75-84 years","75-84","2025 (provisional and partial)","2025",39,101015,38.608
+,"Nebraska","31","85+ years","85+","2018","2018",95,43078,220.530
+,"Nebraska","31","85+ years","85+","2019","2019",87,43058,202.053
+,"Nebraska","31","85+ years","85+","2020","2020",88,42630,206.427
+,"Nebraska","31","85+ years","85+","2021","2021",89,38031,234.020
+,"Nebraska","31","85+ years","85+","2022","2022",65,40706,159.682
+,"Nebraska","31","85+ years","85+","2023","2023",77,37762,203.909
+,"Nebraska","31","85+ years","85+","2024 (provisional)","2024",86,37762,227.742
+,"Nebraska","31","85+ years","85+","2025 (provisional and partial)","2025",47,37762,124.464
+,"Nebraska","31","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Nebraska","31","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Nebraska","31","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Nebraska","31","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Nebraska","31","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Nebraska","31","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Nebraska","31","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Nebraska","31","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"New Mexico","35","< 1 year","1","2018","2018",0,23668,Unreliable
+,"New Mexico","35","< 1 year","1","2019","2019",0,23014,Unreliable
+,"New Mexico","35","< 1 year","1","2020","2020",0,22576,Unreliable
+,"New Mexico","35","< 1 year","1","2021","2021",0,21836,Unreliable
+,"New Mexico","35","< 1 year","1","2022","2022",0,20830,Unreliable
+,"New Mexico","35","< 1 year","1","2023","2023",0,20589,Unreliable
+,"New Mexico","35","< 1 year","1","2024 (provisional)","2024",0,20589,Unreliable
+,"New Mexico","35","< 1 year","1","2025 (provisional and partial)","2025",0,20589,Unreliable
+,"New Mexico","35","1-4 years","1-4","2018","2018",0,100578,Unreliable
+,"New Mexico","35","1-4 years","1-4","2019","2019",0,97972,Unreliable
+,"New Mexico","35","1-4 years","1-4","2020","2020",0,96149,Unreliable
+,"New Mexico","35","1-4 years","1-4","2021","2021",0,93172,Unreliable
+,"New Mexico","35","1-4 years","1-4","2022","2022",0,89198,Unreliable
+,"New Mexico","35","1-4 years","1-4","2023","2023",0,86732,Unreliable
+,"New Mexico","35","1-4 years","1-4","2024 (provisional)","2024",0,86732,Unreliable
+,"New Mexico","35","1-4 years","1-4","2025 (provisional and partial)","2025",0,86732,Unreliable
+,"New Mexico","35","5-14 years","5-14","2018","2018",0,274763,Unreliable
+,"New Mexico","35","5-14 years","5-14","2019","2019",0,272268,Unreliable
+,"New Mexico","35","5-14 years","5-14","2020","2020",0,270303,Unreliable
+,"New Mexico","35","5-14 years","5-14","2021","2021",0,272157,Unreliable
+,"New Mexico","35","5-14 years","5-14","2022","2022",0,263311,Unreliable
+,"New Mexico","35","5-14 years","5-14","2023","2023",0,256826,Unreliable
+,"New Mexico","35","5-14 years","5-14","2024 (provisional)","2024",0,256826,Unreliable
+,"New Mexico","35","5-14 years","5-14","2025 (provisional and partial)","2025",0,256826,Unreliable
+,"New Mexico","35","15-24 years","15-24","2018","2018",0,280599,Unreliable
+,"New Mexico","35","15-24 years","15-24","2019","2019",Suppressed,278459,Suppressed
+,"New Mexico","35","15-24 years","15-24","2020","2020",0,279613,Unreliable
+,"New Mexico","35","15-24 years","15-24","2021","2021",0,283009,Unreliable
+,"New Mexico","35","15-24 years","15-24","2022","2022",0,292929,Unreliable
+,"New Mexico","35","15-24 years","15-24","2023","2023",0,287595,Unreliable
+,"New Mexico","35","15-24 years","15-24","2024 (provisional)","2024",0,287595,Unreliable
+,"New Mexico","35","15-24 years","15-24","2025 (provisional and partial)","2025",0,287595,Unreliable
+,"New Mexico","35","25-34 years","25-34","2018","2018",Suppressed,283835,Suppressed
+,"New Mexico","35","25-34 years","25-34","2019","2019",Suppressed,284087,Suppressed
+,"New Mexico","35","25-34 years","25-34","2020","2020",Suppressed,285029,Suppressed
+,"New Mexico","35","25-34 years","25-34","2021","2021",Suppressed,280986,Suppressed
+,"New Mexico","35","25-34 years","25-34","2022","2022",Suppressed,278336,Suppressed
+,"New Mexico","35","25-34 years","25-34","2023","2023",Suppressed,276976,Suppressed
+,"New Mexico","35","25-34 years","25-34","2024 (provisional)","2024",Suppressed,276976,Suppressed
+,"New Mexico","35","25-34 years","25-34","2025 (provisional and partial)","2025",0,276976,Unreliable
+,"New Mexico","35","35-44 years","35-44","2018","2018",Suppressed,250784,Suppressed
+,"New Mexico","35","35-44 years","35-44","2019","2019",Suppressed,254846,Suppressed
+,"New Mexico","35","35-44 years","35-44","2020","2020",11,259877,Unreliable
+,"New Mexico","35","35-44 years","35-44","2021","2021",10,268354,Unreliable
+,"New Mexico","35","35-44 years","35-44","2022","2022",Suppressed,269909,Suppressed
+,"New Mexico","35","35-44 years","35-44","2023","2023",13,273129,Unreliable
+,"New Mexico","35","35-44 years","35-44","2024 (provisional)","2024",13,273129,Unreliable
+,"New Mexico","35","35-44 years","35-44","2025 (provisional and partial)","2025",Suppressed,273129,Suppressed
+,"New Mexico","35","45-54 years","45-54","2018","2018",37,240865,15.361
+,"New Mexico","35","45-54 years","45-54","2019","2019",29,235656,12.306
+,"New Mexico","35","45-54 years","45-54","2020","2020",30,232949,12.878
+,"New Mexico","35","45-54 years","45-54","2021","2021",26,235423,11.044
+,"New Mexico","35","45-54 years","45-54","2022","2022",21,234581,8.952
+,"New Mexico","35","45-54 years","45-54","2023","2023",38,235584,16.130
+,"New Mexico","35","45-54 years","45-54","2024 (provisional)","2024",32,235584,13.583
+,"New Mexico","35","45-54 years","45-54","2025 (provisional and partial)","2025",26,235584,11.036
+,"New Mexico","35","55-64 years","55-64","2018","2018",61,274147,22.251
+,"New Mexico","35","55-64 years","55-64","2019","2019",67,272921,24.549
+,"New Mexico","35","55-64 years","55-64","2020","2020",63,269912,23.341
+,"New Mexico","35","55-64 years","55-64","2021","2021",80,268994,29.740
+,"New Mexico","35","55-64 years","55-64","2022","2022",50,260847,19.168
+,"New Mexico","35","55-64 years","55-64","2023","2023",68,258389,26.317
+,"New Mexico","35","55-64 years","55-64","2024 (provisional)","2024",77,258389,29.800
+,"New Mexico","35","55-64 years","55-64","2025 (provisional and partial)","2025",40,258389,15.481
+,"New Mexico","35","65-74 years","65-74","2018","2018",81,217884,37.176
+,"New Mexico","35","65-74 years","65-74","2019","2019",79,224483,35.192
+,"New Mexico","35","65-74 years","65-74","2020","2020",75,231746,32.363
+,"New Mexico","35","65-74 years","65-74","2021","2021",103,238520,43.183
+,"New Mexico","35","65-74 years","65-74","2022","2022",91,238437,38.165
+,"New Mexico","35","65-74 years","65-74","2023","2023",97,245514,39.509
+,"New Mexico","35","65-74 years","65-74","2024 (provisional)","2024",96,245514,39.102
+,"New Mexico","35","65-74 years","65-74","2025 (provisional and partial)","2025",69,245514,28.104
+,"New Mexico","35","75-84 years","75-84","2018","2018",84,107134,78.406
+,"New Mexico","35","75-84 years","75-84","2019","2019",75,111714,67.136
+,"New Mexico","35","75-84 years","75-84","2020","2020",82,115866,70.771
+,"New Mexico","35","75-84 years","75-84","2021","2021",83,114957,72.201
+,"New Mexico","35","75-84 years","75-84","2022","2022",85,124085,68.501
+,"New Mexico","35","75-84 years","75-84","2023","2023",77,132897,57.940
+,"New Mexico","35","75-84 years","75-84","2024 (provisional)","2024",89,132897,66.969
+,"New Mexico","35","75-84 years","75-84","2025 (provisional and partial)","2025",50,132897,37.623
+,"New Mexico","35","85+ years","85+","2018","2018",59,41171,143.305
+,"New Mexico","35","85+ years","85+","2019","2019",41,41409,99.012
+,"New Mexico","35","85+ years","85+","2020","2020",63,42299,148.940
+,"New Mexico","35","85+ years","85+","2021","2021",57,38469,148.171
+,"New Mexico","35","85+ years","85+","2022","2022",71,40881,173.675
+,"New Mexico","35","85+ years","85+","2023","2023",51,40140,127.055
+,"New Mexico","35","85+ years","85+","2024 (provisional)","2024",66,40140,164.425
+,"New Mexico","35","85+ years","85+","2025 (provisional and partial)","2025",37,40140,92.177
+,"New Mexico","35","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"New Mexico","35","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"New Mexico","35","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"New Mexico","35","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"New Mexico","35","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"New Mexico","35","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"New Mexico","35","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"New Mexico","35","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"North Dakota","38","< 1 year","1","2018","2018",0,10802,Unreliable
+,"North Dakota","38","< 1 year","1","2019","2019",0,10483,Unreliable
+,"North Dakota","38","< 1 year","1","2020","2020",0,10459,Unreliable
+,"North Dakota","38","< 1 year","1","2021","2021",0,9740,Unreliable
+,"North Dakota","38","< 1 year","1","2022","2022",0,10093,Unreliable
+,"North Dakota","38","< 1 year","1","2023","2023",0,9626,Unreliable
+,"North Dakota","38","< 1 year","1","2024 (provisional)","2024",0,9626,Unreliable
+,"North Dakota","38","< 1 year","1","2025 (provisional and partial)","2025",0,9626,Unreliable
+,"North Dakota","38","1-4 years","1-4","2018","2018",0,43893,Unreliable
+,"North Dakota","38","1-4 years","1-4","2019","2019",0,43618,Unreliable
+,"North Dakota","38","1-4 years","1-4","2020","2020",0,42620,Unreliable
+,"North Dakota","38","1-4 years","1-4","2021","2021",0,41650,Unreliable
+,"North Dakota","38","1-4 years","1-4","2022","2022",0,39836,Unreliable
+,"North Dakota","38","1-4 years","1-4","2023","2023",0,39681,Unreliable
+,"North Dakota","38","1-4 years","1-4","2024 (provisional)","2024",0,39681,Unreliable
+,"North Dakota","38","1-4 years","1-4","2025 (provisional and partial)","2025",0,39681,Unreliable
+,"North Dakota","38","5-14 years","5-14","2018","2018",0,97854,Unreliable
+,"North Dakota","38","5-14 years","5-14","2019","2019",0,99495,Unreliable
+,"North Dakota","38","5-14 years","5-14","2020","2020",0,101162,Unreliable
+,"North Dakota","38","5-14 years","5-14","2021","2021",0,104849,Unreliable
+,"North Dakota","38","5-14 years","5-14","2022","2022",0,103154,Unreliable
+,"North Dakota","38","5-14 years","5-14","2023","2023",0,104584,Unreliable
+,"North Dakota","38","5-14 years","5-14","2024 (provisional)","2024",0,104584,Unreliable
+,"North Dakota","38","5-14 years","5-14","2025 (provisional and partial)","2025",0,104584,Unreliable
+,"North Dakota","38","15-24 years","15-24","2018","2018",0,110861,Unreliable
+,"North Dakota","38","15-24 years","15-24","2019","2019",0,109397,Unreliable
+,"North Dakota","38","15-24 years","15-24","2020","2020",0,110517,Unreliable
+,"North Dakota","38","15-24 years","15-24","2021","2021",0,112905,Unreliable
+,"North Dakota","38","15-24 years","15-24","2022","2022",0,119124,Unreliable
+,"North Dakota","38","15-24 years","15-24","2023","2023",0,118409,Unreliable
+,"North Dakota","38","15-24 years","15-24","2024 (provisional)","2024",0,118409,Unreliable
+,"North Dakota","38","15-24 years","15-24","2025 (provisional and partial)","2025",0,118409,Unreliable
+,"North Dakota","38","25-34 years","25-34","2018","2018",Suppressed,114800,Suppressed
+,"North Dakota","38","25-34 years","25-34","2019","2019",Suppressed,114571,Suppressed
+,"North Dakota","38","25-34 years","25-34","2020","2020",0,113311,Unreliable
+,"North Dakota","38","25-34 years","25-34","2021","2021",0,110972,Unreliable
+,"North Dakota","38","25-34 years","25-34","2022","2022",Suppressed,109433,Suppressed
+,"North Dakota","38","25-34 years","25-34","2023","2023",0,109513,Unreliable
+,"North Dakota","38","25-34 years","25-34","2024 (provisional)","2024",0,109513,Unreliable
+,"North Dakota","38","25-34 years","25-34","2025 (provisional and partial)","2025",0,109513,Unreliable
+,"North Dakota","38","35-44 years","35-44","2018","2018",Suppressed,90402,Suppressed
+,"North Dakota","38","35-44 years","35-44","2019","2019",Suppressed,92576,Suppressed
+,"North Dakota","38","35-44 years","35-44","2020","2020",Suppressed,94889,Suppressed
+,"North Dakota","38","35-44 years","35-44","2021","2021",Suppressed,99539,Suppressed
+,"North Dakota","38","35-44 years","35-44","2022","2022",Suppressed,100523,Suppressed
+,"North Dakota","38","35-44 years","35-44","2023","2023",Suppressed,102608,Suppressed
+,"North Dakota","38","35-44 years","35-44","2024 (provisional)","2024",Suppressed,102608,Suppressed
+,"North Dakota","38","35-44 years","35-44","2025 (provisional and partial)","2025",Suppressed,102608,Suppressed
+,"North Dakota","38","45-54 years","45-54","2018","2018",11,80005,Unreliable
+,"North Dakota","38","45-54 years","45-54","2019","2019",Suppressed,78199,Suppressed
+,"North Dakota","38","45-54 years","45-54","2020","2020",Suppressed,77161,Suppressed
+,"North Dakota","38","45-54 years","45-54","2021","2021",Suppressed,78534,Suppressed
+,"North Dakota","38","45-54 years","45-54","2022","2022",Suppressed,78235,Suppressed
+,"North Dakota","38","45-54 years","45-54","2023","2023",Suppressed,79137,Suppressed
+,"North Dakota","38","45-54 years","45-54","2024 (provisional)","2024",Suppressed,79137,Suppressed
+,"North Dakota","38","45-54 years","45-54","2025 (provisional and partial)","2025",Suppressed,79137,Suppressed
+,"North Dakota","38","55-64 years","55-64","2018","2018",18,94823,Unreliable
+,"North Dakota","38","55-64 years","55-64","2019","2019",25,93878,26.630
+,"North Dakota","38","55-64 years","55-64","2020","2020",18,92049,Unreliable
+,"North Dakota","38","55-64 years","55-64","2021","2021",15,92118,Unreliable
+,"North Dakota","38","55-64 years","55-64","2022","2022",17,88935,Unreliable
+,"North Dakota","38","55-64 years","55-64","2023","2023",17,87052,Unreliable
+,"North Dakota","38","55-64 years","55-64","2024 (provisional)","2024",17,87052,Unreliable
+,"North Dakota","38","55-64 years","55-64","2025 (provisional and partial)","2025",Suppressed,87052,Suppressed
+,"North Dakota","38","65-74 years","65-74","2018","2018",24,64222,37.370
+,"North Dakota","38","65-74 years","65-74","2019","2019",36,66664,54.002
+,"North Dakota","38","65-74 years","65-74","2020","2020",30,69658,43.068
+,"North Dakota","38","65-74 years","65-74","2021","2021",25,73642,33.948
+,"North Dakota","38","65-74 years","65-74","2022","2022",32,74880,42.735
+,"North Dakota","38","65-74 years","65-74","2023","2023",24,77525,30.958
+,"North Dakota","38","65-74 years","65-74","2024 (provisional)","2024",29,77525,37.407
+,"North Dakota","38","65-74 years","65-74","2025 (provisional and partial)","2025",21,77525,27.088
+,"North Dakota","38","75-84 years","75-84","2018","2018",31,33619,92.210
+,"North Dakota","38","75-84 years","75-84","2019","2019",41,34368,119.297
+,"North Dakota","38","75-84 years","75-84","2020","2020",26,34850,74.605
+,"North Dakota","38","75-84 years","75-84","2021","2021",23,34310,67.036
+,"North Dakota","38","75-84 years","75-84","2022","2022",21,36756,57.134
+,"North Dakota","38","75-84 years","75-84","2023","2023",32,38256,83.647
+,"North Dakota","38","75-84 years","75-84","2024 (provisional)","2024",34,38256,88.875
+,"North Dakota","38","75-84 years","75-84","2025 (provisional and partial)","2025",15,38256,Unreliable
+,"North Dakota","38","85+ years","85+","2018","2018",27,18796,143.648
+,"North Dakota","38","85+ years","85+","2019","2019",24,18813,127.571
+,"North Dakota","38","85+ years","85+","2020","2020",30,18633,161.005
+,"North Dakota","38","85+ years","85+","2021","2021",28,16689,167.775
+,"North Dakota","38","85+ years","85+","2022","2022",23,18292,125.738
+,"North Dakota","38","85+ years","85+","2023","2023",37,17535,211.007
+,"North Dakota","38","85+ years","85+","2024 (provisional)","2024",26,17535,148.275
+,"North Dakota","38","85+ years","85+","2025 (provisional and partial)","2025",14,17535,Unreliable
+,"North Dakota","38","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"North Dakota","38","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"North Dakota","38","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"North Dakota","38","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"North Dakota","38","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"North Dakota","38","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"North Dakota","38","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"North Dakota","38","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Oklahoma","40","< 1 year","1","2018","2018",0,50353,Unreliable
+,"Oklahoma","40","< 1 year","1","2019","2019",0,48442,Unreliable
+,"Oklahoma","40","< 1 year","1","2020","2020",0,48675,Unreliable
+,"Oklahoma","40","< 1 year","1","2021","2021",0,46696,Unreliable
+,"Oklahoma","40","< 1 year","1","2022","2022",0,47793,Unreliable
+,"Oklahoma","40","< 1 year","1","2023","2023",0,47714,Unreliable
+,"Oklahoma","40","< 1 year","1","2024 (provisional)","2024",0,47714,Unreliable
+,"Oklahoma","40","< 1 year","1","2025 (provisional and partial)","2025",0,47714,Unreliable
+,"Oklahoma","40","1-4 years","1-4","2018","2018",0,210076,Unreliable
+,"Oklahoma","40","1-4 years","1-4","2019","2019",0,207091,Unreliable
+,"Oklahoma","40","1-4 years","1-4","2020","2020",0,204841,Unreliable
+,"Oklahoma","40","1-4 years","1-4","2021","2021",0,199673,Unreliable
+,"Oklahoma","40","1-4 years","1-4","2022","2022",0,195878,Unreliable
+,"Oklahoma","40","1-4 years","1-4","2023","2023",0,196563,Unreliable
+,"Oklahoma","40","1-4 years","1-4","2024 (provisional)","2024",0,196563,Unreliable
+,"Oklahoma","40","1-4 years","1-4","2025 (provisional and partial)","2025",0,196563,Unreliable
+,"Oklahoma","40","5-14 years","5-14","2018","2018",Suppressed,537907,Suppressed
+,"Oklahoma","40","5-14 years","5-14","2019","2019",0,538048,Unreliable
+,"Oklahoma","40","5-14 years","5-14","2020","2020",0,540058,Unreliable
+,"Oklahoma","40","5-14 years","5-14","2021","2021",0,549742,Unreliable
+,"Oklahoma","40","5-14 years","5-14","2022","2022",0,542233,Unreliable
+,"Oklahoma","40","5-14 years","5-14","2023","2023",0,548221,Unreliable
+,"Oklahoma","40","5-14 years","5-14","2024 (provisional)","2024",0,548221,Unreliable
+,"Oklahoma","40","5-14 years","5-14","2025 (provisional and partial)","2025",0,548221,Unreliable
+,"Oklahoma","40","15-24 years","15-24","2018","2018",0,537830,Unreliable
+,"Oklahoma","40","15-24 years","15-24","2019","2019",0,539562,Unreliable
+,"Oklahoma","40","15-24 years","15-24","2020","2020",Suppressed,541920,Suppressed
+,"Oklahoma","40","15-24 years","15-24","2021","2021",Suppressed,549090,Suppressed
+,"Oklahoma","40","15-24 years","15-24","2022","2022",Suppressed,573842,Suppressed
+,"Oklahoma","40","15-24 years","15-24","2023","2023",Suppressed,571866,Suppressed
+,"Oklahoma","40","15-24 years","15-24","2024 (provisional)","2024",Suppressed,571866,Suppressed
+,"Oklahoma","40","15-24 years","15-24","2025 (provisional and partial)","2025",0,571866,Unreliable
+,"Oklahoma","40","25-34 years","25-34","2018","2018",Suppressed,543218,Suppressed
+,"Oklahoma","40","25-34 years","25-34","2019","2019",Suppressed,543593,Suppressed
+,"Oklahoma","40","25-34 years","25-34","2020","2020",Suppressed,545036,Suppressed
+,"Oklahoma","40","25-34 years","25-34","2021","2021",Suppressed,536930,Suppressed
+,"Oklahoma","40","25-34 years","25-34","2022","2022",Suppressed,541538,Suppressed
+,"Oklahoma","40","25-34 years","25-34","2023","2023",Suppressed,547084,Suppressed
+,"Oklahoma","40","25-34 years","25-34","2024 (provisional)","2024",Suppressed,547084,Suppressed
+,"Oklahoma","40","25-34 years","25-34","2025 (provisional and partial)","2025",Suppressed,547084,Suppressed
+,"Oklahoma","40","35-44 years","35-44","2018","2018",18,490388,Unreliable
+,"Oklahoma","40","35-44 years","35-44","2019","2019",31,497873,6.226
+,"Oklahoma","40","35-44 years","35-44","2020","2020",25,505948,4.941
+,"Oklahoma","40","35-44 years","35-44","2021","2021",19,518854,Unreliable
+,"Oklahoma","40","35-44 years","35-44","2022","2022",22,524996,4.191
+,"Oklahoma","40","35-44 years","35-44","2023","2023",23,535572,4.294
+,"Oklahoma","40","35-44 years","35-44","2024 (provisional)","2024",37,535572,6.909
+,"Oklahoma","40","35-44 years","35-44","2025 (provisional and partial)","2025",16,535572,Unreliable
+,"Oklahoma","40","45-54 years","45-54","2018","2018",70,460310,15.207
+,"Oklahoma","40","45-54 years","45-54","2019","2019",66,453536,14.552
+,"Oklahoma","40","45-54 years","45-54","2020","2020",74,451176,16.402
+,"Oklahoma","40","45-54 years","45-54","2021","2021",70,454731,15.394
+,"Oklahoma","40","45-54 years","45-54","2022","2022",77,457226,16.841
+,"Oklahoma","40","45-54 years","45-54","2023","2023",86,463111,18.570
+,"Oklahoma","40","45-54 years","45-54","2024 (provisional)","2024",81,463111,17.490
+,"Oklahoma","40","45-54 years","45-54","2025 (provisional and partial)","2025",43,463111,9.285
+,"Oklahoma","40","55-64 years","55-64","2018","2018",139,493444,28.169
+,"Oklahoma","40","55-64 years","55-64","2019","2019",137,493694,27.750
+,"Oklahoma","40","55-64 years","55-64","2020","2020",184,489970,37.553
+,"Oklahoma","40","55-64 years","55-64","2021","2021",160,486212,32.907
+,"Oklahoma","40","55-64 years","55-64","2022","2022",166,475399,34.918
+,"Oklahoma","40","55-64 years","55-64","2023","2023",160,470055,34.039
+,"Oklahoma","40","55-64 years","55-64","2024 (provisional)","2024",170,470055,36.166
+,"Oklahoma","40","55-64 years","55-64","2025 (provisional and partial)","2025",84,470055,17.870
+,"Oklahoma","40","65-74 years","65-74","2018","2018",211,358646,58.832
+,"Oklahoma","40","65-74 years","65-74","2019","2019",188,368050,51.080
+,"Oklahoma","40","65-74 years","65-74","2020","2020",209,380547,54.921
+,"Oklahoma","40","65-74 years","65-74","2021","2021",218,388432,56.123
+,"Oklahoma","40","65-74 years","65-74","2022","2022",208,388508,53.538
+,"Oklahoma","40","65-74 years","65-74","2023","2023",211,397839,53.037
+,"Oklahoma","40","65-74 years","65-74","2024 (provisional)","2024",219,397839,55.047
+,"Oklahoma","40","65-74 years","65-74","2025 (provisional and partial)","2025",135,397839,33.933
+,"Oklahoma","40","75-84 years","75-84","2018","2018",179,187711,95.359
+,"Oklahoma","40","75-84 years","75-84","2019","2019",173,192919,89.675
+,"Oklahoma","40","75-84 years","75-84","2020","2020",187,197625,94.624
+,"Oklahoma","40","75-84 years","75-84","2021","2021",195,189996,102.634
+,"Oklahoma","40","75-84 years","75-84","2022","2022",177,202038,87.607
+,"Oklahoma","40","75-84 years","75-84","2023","2023",197,208447,94.508
+,"Oklahoma","40","75-84 years","75-84","2024 (provisional)","2024",195,208447,93.549
+,"Oklahoma","40","75-84 years","75-84","2025 (provisional and partial)","2025",104,208447,49.893
+,"Oklahoma","40","85+ years","85+","2018","2018",110,73196,150.281
+,"Oklahoma","40","85+ years","85+","2019","2019",118,74163,159.109
+,"Oklahoma","40","85+ years","85+","2020","2020",102,74987,136.024
+,"Oklahoma","40","85+ years","85+","2021","2021",99,66283,149.360
+,"Oklahoma","40","85+ years","85+","2022","2022",110,70349,156.363
+,"Oklahoma","40","85+ years","85+","2023","2023",103,67352,152.928
+,"Oklahoma","40","85+ years","85+","2024 (provisional)","2024",129,67352,191.531
+,"Oklahoma","40","85+ years","85+","2025 (provisional and partial)","2025",77,67352,114.325
+,"Oklahoma","40","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Oklahoma","40","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Oklahoma","40","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Oklahoma","40","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Oklahoma","40","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Oklahoma","40","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Oklahoma","40","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Oklahoma","40","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"South Dakota","46","< 1 year","1","2018","2018",0,12109,Unreliable
+,"South Dakota","46","< 1 year","1","2019","2019",0,11985,Unreliable
+,"South Dakota","46","< 1 year","1","2020","2020",0,11810,Unreliable
+,"South Dakota","46","< 1 year","1","2021","2021",0,10917,Unreliable
+,"South Dakota","46","< 1 year","1","2022","2022",0,11445,Unreliable
+,"South Dakota","46","< 1 year","1","2023","2023",0,11434,Unreliable
+,"South Dakota","46","< 1 year","1","2024 (provisional)","2024",0,11434,Unreliable
+,"South Dakota","46","< 1 year","1","2025 (provisional and partial)","2025",0,11434,Unreliable
+,"South Dakota","46","1-4 years","1-4","2018","2018",0,50023,Unreliable
+,"South Dakota","46","1-4 years","1-4","2019","2019",0,49182,Unreliable
+,"South Dakota","46","1-4 years","1-4","2020","2020",0,48654,Unreliable
+,"South Dakota","46","1-4 years","1-4","2021","2021",0,47751,Unreliable
+,"South Dakota","46","1-4 years","1-4","2022","2022",0,46648,Unreliable
+,"South Dakota","46","1-4 years","1-4","2023","2023",0,46501,Unreliable
+,"South Dakota","46","1-4 years","1-4","2024 (provisional)","2024",0,46501,Unreliable
+,"South Dakota","46","1-4 years","1-4","2025 (provisional and partial)","2025",0,46501,Unreliable
+,"South Dakota","46","5-14 years","5-14","2018","2018",0,121644,Unreliable
+,"South Dakota","46","5-14 years","5-14","2019","2019",0,121666,Unreliable
+,"South Dakota","46","5-14 years","5-14","2020","2020",0,122672,Unreliable
+,"South Dakota","46","5-14 years","5-14","2021","2021",0,124747,Unreliable
+,"South Dakota","46","5-14 years","5-14","2022","2022",0,123688,Unreliable
+,"South Dakota","46","5-14 years","5-14","2023","2023",0,125046,Unreliable
+,"South Dakota","46","5-14 years","5-14","2024 (provisional)","2024",0,125046,Unreliable
+,"South Dakota","46","5-14 years","5-14","2025 (provisional and partial)","2025",0,125046,Unreliable
+,"South Dakota","46","15-24 years","15-24","2018","2018",0,117259,Unreliable
+,"South Dakota","46","15-24 years","15-24","2019","2019",0,116664,Unreliable
+,"South Dakota","46","15-24 years","15-24","2020","2020",Suppressed,118386,Suppressed
+,"South Dakota","46","15-24 years","15-24","2021","2021",0,120236,Unreliable
+,"South Dakota","46","15-24 years","15-24","2022","2022",0,124413,Unreliable
+,"South Dakota","46","15-24 years","15-24","2023","2023",0,124344,Unreliable
+,"South Dakota","46","15-24 years","15-24","2024 (provisional)","2024",0,124344,Unreliable
+,"South Dakota","46","15-24 years","15-24","2025 (provisional and partial)","2025",0,124344,Unreliable
+,"South Dakota","46","25-34 years","25-34","2018","2018",0,116095,Unreliable
+,"South Dakota","46","25-34 years","25-34","2019","2019",0,115064,Unreliable
+,"South Dakota","46","25-34 years","25-34","2020","2020",Suppressed,115109,Suppressed
+,"South Dakota","46","25-34 years","25-34","2021","2021",Suppressed,113171,Suppressed
+,"South Dakota","46","25-34 years","25-34","2022","2022",Suppressed,114295,Suppressed
+,"South Dakota","46","25-34 years","25-34","2023","2023",Suppressed,115187,Suppressed
+,"South Dakota","46","25-34 years","25-34","2024 (provisional)","2024",Suppressed,115187,Suppressed
+,"South Dakota","46","25-34 years","25-34","2025 (provisional and partial)","2025",0,115187,Unreliable
+,"South Dakota","46","35-44 years","35-44","2018","2018",Suppressed,103909,Suppressed
+,"South Dakota","46","35-44 years","35-44","2019","2019",Suppressed,105864,Suppressed
+,"South Dakota","46","35-44 years","35-44","2020","2020",Suppressed,108308,Suppressed
+,"South Dakota","46","35-44 years","35-44","2021","2021",Suppressed,111647,Suppressed
+,"South Dakota","46","35-44 years","35-44","2022","2022",Suppressed,114374,Suppressed
+,"South Dakota","46","35-44 years","35-44","2023","2023",Suppressed,116885,Suppressed
+,"South Dakota","46","35-44 years","35-44","2024 (provisional)","2024",Suppressed,116885,Suppressed
+,"South Dakota","46","35-44 years","35-44","2025 (provisional and partial)","2025",Suppressed,116885,Suppressed
+,"South Dakota","46","45-54 years","45-54","2018","2018",Suppressed,97081,Suppressed
+,"South Dakota","46","45-54 years","45-54","2019","2019",14,94865,Unreliable
+,"South Dakota","46","45-54 years","45-54","2020","2020",Suppressed,93700,Suppressed
+,"South Dakota","46","45-54 years","45-54","2021","2021",Suppressed,94492,Suppressed
+,"South Dakota","46","45-54 years","45-54","2022","2022",12,96313,Unreliable
+,"South Dakota","46","45-54 years","45-54","2023","2023",15,97675,Unreliable
+,"South Dakota","46","45-54 years","45-54","2024 (provisional)","2024",11,97675,Unreliable
+,"South Dakota","46","45-54 years","45-54","2025 (provisional and partial)","2025",10,97675,Unreliable
+,"South Dakota","46","55-64 years","55-64","2018","2018",28,117261,23.878
+,"South Dakota","46","55-64 years","55-64","2019","2019",21,117498,17.873
+,"South Dakota","46","55-64 years","55-64","2020","2020",17,116901,Unreliable
+,"South Dakota","46","55-64 years","55-64","2021","2021",27,115997,23.276
+,"South Dakota","46","55-64 years","55-64","2022","2022",18,114831,Unreliable
+,"South Dakota","46","55-64 years","55-64","2023","2023",31,113409,27.335
+,"South Dakota","46","55-64 years","55-64","2024 (provisional)","2024",29,113409,25.571
+,"South Dakota","46","55-64 years","55-64","2025 (provisional and partial)","2025",12,113409,Unreliable
+,"South Dakota","46","65-74 years","65-74","2018","2018",40,85050,47.031
+,"South Dakota","46","65-74 years","65-74","2019","2019",32,89216,35.868
+,"South Dakota","46","65-74 years","65-74","2020","2020",51,94041,54.232
+,"South Dakota","46","65-74 years","65-74","2021","2021",42,97689,42.994
+,"South Dakota","46","65-74 years","65-74","2022","2022",36,99880,36.043
+,"South Dakota","46","65-74 years","65-74","2023","2023",55,103464,53.159
+,"South Dakota","46","65-74 years","65-74","2024 (provisional)","2024",47,103464,45.426
+,"South Dakota","46","65-74 years","65-74","2025 (provisional and partial)","2025",23,103464,22.230
+,"South Dakota","46","75-84 years","75-84","2018","2018",40,40813,98.008
+,"South Dakota","46","75-84 years","75-84","2019","2019",34,41670,81.593
+,"South Dakota","46","75-84 years","75-84","2020","2020",38,42280,89.877
+,"South Dakota","46","75-84 years","75-84","2021","2021",34,40563,83.820
+,"South Dakota","46","75-84 years","75-84","2022","2022",29,44134,65.709
+,"South Dakota","46","75-84 years","75-84","2023","2023",38,46632,81.489
+,"South Dakota","46","75-84 years","75-84","2024 (provisional)","2024",53,46632,113.656
+,"South Dakota","46","75-84 years","75-84","2025 (provisional and partial)","2025",20,46632,42.889
+,"South Dakota","46","85+ years","85+","2018","2018",43,20991,204.850
+,"South Dakota","46","85+ years","85+","2019","2019",44,20985,209.674
+,"South Dakota","46","85+ years","85+","2020","2020",38,20856,182.202
+,"South Dakota","46","85+ years","85+","2021","2021",43,18166,236.706
+,"South Dakota","46","85+ years","85+","2022","2022",39,19803,196.940
+,"South Dakota","46","85+ years","85+","2023","2023",28,18741,149.405
+,"South Dakota","46","85+ years","85+","2024 (provisional)","2024",44,18741,234.779
+,"South Dakota","46","85+ years","85+","2025 (provisional and partial)","2025",18,18741,Unreliable
+,"South Dakota","46","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"South Dakota","46","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"South Dakota","46","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"South Dakota","46","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"South Dakota","46","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"South Dakota","46","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"South Dakota","46","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"South Dakota","46","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Utah","49","< 1 year","1","2018","2018",0,50160,Unreliable
+,"Utah","49","< 1 year","1","2019","2019",0,48566,Unreliable
+,"Utah","49","< 1 year","1","2020","2020",0,47431,Unreliable
+,"Utah","49","< 1 year","1","2021","2021",0,44946,Unreliable
+,"Utah","49","< 1 year","1","2022","2022",0,46679,Unreliable
+,"Utah","49","< 1 year","1","2023","2023",0,45759,Unreliable
+,"Utah","49","< 1 year","1","2024 (provisional)","2024",0,45759,Unreliable
+,"Utah","49","< 1 year","1","2025 (provisional and partial)","2025",0,45759,Unreliable
+,"Utah","49","1-4 years","1-4","2018","2018",0,202844,Unreliable
+,"Utah","49","1-4 years","1-4","2019","2019",0,199237,Unreliable
+,"Utah","49","1-4 years","1-4","2020","2020",0,194302,Unreliable
+,"Utah","49","1-4 years","1-4","2021","2021",0,192288,Unreliable
+,"Utah","49","1-4 years","1-4","2022","2022",0,186395,Unreliable
+,"Utah","49","1-4 years","1-4","2023","2023",0,185536,Unreliable
+,"Utah","49","1-4 years","1-4","2024 (provisional)","2024",0,185536,Unreliable
+,"Utah","49","1-4 years","1-4","2025 (provisional and partial)","2025",0,185536,Unreliable
+,"Utah","49","5-14 years","5-14","2018","2018",0,525877,Unreliable
+,"Utah","49","5-14 years","5-14","2019","2019",0,526961,Unreliable
+,"Utah","49","5-14 years","5-14","2020","2020",0,527872,Unreliable
+,"Utah","49","5-14 years","5-14","2021","2021",0,541749,Unreliable
+,"Utah","49","5-14 years","5-14","2022","2022",0,529128,Unreliable
+,"Utah","49","5-14 years","5-14","2023","2023",0,526841,Unreliable
+,"Utah","49","5-14 years","5-14","2024 (provisional)","2024",0,526841,Unreliable
+,"Utah","49","5-14 years","5-14","2025 (provisional and partial)","2025",0,526841,Unreliable
+,"Utah","49","15-24 years","15-24","2018","2018",Suppressed,509891,Suppressed
+,"Utah","49","15-24 years","15-24","2019","2019",0,518499,Unreliable
+,"Utah","49","15-24 years","15-24","2020","2020",0,527019,Unreliable
+,"Utah","49","15-24 years","15-24","2021","2021",0,547422,Unreliable
+,"Utah","49","15-24 years","15-24","2022","2022",0,573297,Unreliable
+,"Utah","49","15-24 years","15-24","2023","2023",0,574850,Unreliable
+,"Utah","49","15-24 years","15-24","2024 (provisional)","2024",Suppressed,574850,Suppressed
+,"Utah","49","15-24 years","15-24","2025 (provisional and partial)","2025",0,574850,Unreliable
+,"Utah","49","25-34 years","25-34","2018","2018",Suppressed,464908,Suppressed
+,"Utah","49","25-34 years","25-34","2019","2019",Suppressed,471806,Suppressed
+,"Utah","49","25-34 years","25-34","2020","2020",Suppressed,479576,Suppressed
+,"Utah","49","25-34 years","25-34","2021","2021",Suppressed,488688,Suppressed
+,"Utah","49","25-34 years","25-34","2022","2022",Suppressed,498913,Suppressed
+,"Utah","49","25-34 years","25-34","2023","2023",Suppressed,508841,Suppressed
+,"Utah","49","25-34 years","25-34","2024 (provisional)","2024",Suppressed,508841,Suppressed
+,"Utah","49","25-34 years","25-34","2025 (provisional and partial)","2025",Suppressed,508841,Suppressed
+,"Utah","49","35-44 years","35-44","2018","2018",12,434614,Unreliable
+,"Utah","49","35-44 years","35-44","2019","2019",11,443453,Unreliable
+,"Utah","49","35-44 years","35-44","2020","2020",14,450609,Unreliable
+,"Utah","49","35-44 years","35-44","2021","2021",22,465708,4.724
+,"Utah","49","35-44 years","35-44","2022","2022",16,463662,Unreliable
+,"Utah","49","35-44 years","35-44","2023","2023",17,464839,Unreliable
+,"Utah","49","35-44 years","35-44","2024 (provisional)","2024",20,464839,4.303
+,"Utah","49","35-44 years","35-44","2025 (provisional and partial)","2025",10,464839,Unreliable
+,"Utah","49","45-54 years","45-54","2018","2018",23,322173,7.139
+,"Utah","49","45-54 years","45-54","2019","2019",35,328430,10.657
+,"Utah","49","45-54 years","45-54","2020","2020",31,337383,9.188
+,"Utah","49","45-54 years","45-54","2021","2021",30,357038,8.402
+,"Utah","49","45-54 years","45-54","2022","2022",45,369405,12.182
+,"Utah","49","45-54 years","45-54","2023","2023",50,384920,12.990
+,"Utah","49","45-54 years","45-54","2024 (provisional)","2024",39,384920,10.132
+,"Utah","49","45-54 years","45-54","2025 (provisional and partial)","2025",22,384920,5.715
+,"Utah","49","55-64 years","55-64","2018","2018",56,300160,18.657
+,"Utah","49","55-64 years","55-64","2019","2019",60,303134,19.793
+,"Utah","49","55-64 years","55-64","2020","2020",62,304094,20.388
+,"Utah","49","55-64 years","55-64","2021","2021",54,310988,17.364
+,"Utah","49","55-64 years","55-64","2022","2022",56,308121,18.175
+,"Utah","49","55-64 years","55-64","2023","2023",64,309012,20.711
+,"Utah","49","55-64 years","55-64","2024 (provisional)","2024",57,309012,18.446
+,"Utah","49","55-64 years","55-64","2025 (provisional and partial)","2025",31,309012,10.032
+,"Utah","49","65-74 years","65-74","2018","2018",65,209871,30.971
+,"Utah","49","65-74 years","65-74","2019","2019",81,219466,36.908
+,"Utah","49","65-74 years","65-74","2020","2020",64,230052,27.820
+,"Utah","49","65-74 years","65-74","2021","2021",71,242367,29.294
+,"Utah","49","65-74 years","65-74","2022","2022",56,245876,22.776
+,"Utah","49","65-74 years","65-74","2023","2023",79,253707,31.138
+,"Utah","49","65-74 years","65-74","2024 (provisional)","2024",75,253707,29.562
+,"Utah","49","65-74 years","65-74","2025 (provisional and partial)","2025",42,253707,16.555
+,"Utah","49","75-84 years","75-84","2018","2018",54,102831,52.513
+,"Utah","49","75-84 years","75-84","2019","2019",73,107832,67.698
+,"Utah","49","75-84 years","75-84","2020","2020",55,112018,49.099
+,"Utah","49","75-84 years","75-84","2021","2021",66,111129,59.390
+,"Utah","49","75-84 years","75-84","2022","2022",82,120492,68.054
+,"Utah","49","75-84 years","75-84","2023","2023",75,126794,59.151
+,"Utah","49","75-84 years","75-84","2024 (provisional)","2024",82,126794,64.672
+,"Utah","49","75-84 years","75-84","2025 (provisional and partial)","2025",35,126794,27.604
+,"Utah","49","85+ years","85+","2018","2018",53,37776,140.301
+,"Utah","49","85+ years","85+","2019","2019",56,38574,145.176
+,"Utah","49","85+ years","85+","2020","2020",59,39523,149.280
+,"Utah","49","85+ years","85+","2021","2021",41,35652,115.001
+,"Utah","49","85+ years","85+","2022","2022",57,38832,146.786
+,"Utah","49","85+ years","85+","2023","2023",66,36635,180.156
+,"Utah","49","85+ years","85+","2024 (provisional)","2024",53,36635,144.670
+,"Utah","49","85+ years","85+","2025 (provisional and partial)","2025",38,36635,103.726
+,"Utah","49","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Utah","49","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Utah","49","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Utah","49","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Utah","49","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Utah","49","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Utah","49","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Utah","49","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Vermont","50","< 1 year","1","2018","2018",0,5632,Unreliable
+,"Vermont","50","< 1 year","1","2019","2019",0,5579,Unreliable
+,"Vermont","50","< 1 year","1","2020","2020",0,5330,Unreliable
+,"Vermont","50","< 1 year","1","2021","2021",0,5073,Unreliable
+,"Vermont","50","< 1 year","1","2022","2022",0,5364,Unreliable
+,"Vermont","50","< 1 year","1","2023","2023",0,5112,Unreliable
+,"Vermont","50","< 1 year","1","2024 (provisional)","2024",0,5112,Unreliable
+,"Vermont","50","< 1 year","1","2025 (provisional and partial)","2025",0,5112,Unreliable
+,"Vermont","50","1-4 years","1-4","2018","2018",0,24049,Unreliable
+,"Vermont","50","1-4 years","1-4","2019","2019",0,23464,Unreliable
+,"Vermont","50","1-4 years","1-4","2020","2020",0,22928,Unreliable
+,"Vermont","50","1-4 years","1-4","2021","2021",0,23176,Unreliable
+,"Vermont","50","1-4 years","1-4","2022","2022",0,22230,Unreliable
+,"Vermont","50","1-4 years","1-4","2023","2023",0,22236,Unreliable
+,"Vermont","50","1-4 years","1-4","2024 (provisional)","2024",0,22236,Unreliable
+,"Vermont","50","1-4 years","1-4","2025 (provisional and partial)","2025",0,22236,Unreliable
+,"Vermont","50","5-14 years","5-14","2018","2018",0,65033,Unreliable
+,"Vermont","50","5-14 years","5-14","2019","2019",0,64156,Unreliable
+,"Vermont","50","5-14 years","5-14","2020","2020",0,64065,Unreliable
+,"Vermont","50","5-14 years","5-14","2021","2021",0,66803,Unreliable
+,"Vermont","50","5-14 years","5-14","2022","2022",0,65381,Unreliable
+,"Vermont","50","5-14 years","5-14","2023","2023",0,65200,Unreliable
+,"Vermont","50","5-14 years","5-14","2024 (provisional)","2024",0,65200,Unreliable
+,"Vermont","50","5-14 years","5-14","2025 (provisional and partial)","2025",0,65200,Unreliable
+,"Vermont","50","15-24 years","15-24","2018","2018",0,88478,Unreliable
+,"Vermont","50","15-24 years","15-24","2019","2019",Suppressed,86646,Suppressed
+,"Vermont","50","15-24 years","15-24","2020","2020",0,85387,Unreliable
+,"Vermont","50","15-24 years","15-24","2021","2021",Suppressed,88118,Suppressed
+,"Vermont","50","15-24 years","15-24","2022","2022",0,87463,Unreliable
+,"Vermont","50","15-24 years","15-24","2023","2023",0,85603,Unreliable
+,"Vermont","50","15-24 years","15-24","2024 (provisional)","2024",Suppressed,85603,Suppressed
+,"Vermont","50","15-24 years","15-24","2025 (provisional and partial)","2025",0,85603,Unreliable
+,"Vermont","50","25-34 years","25-34","2018","2018",0,74091,Unreliable
+,"Vermont","50","25-34 years","25-34","2019","2019",Suppressed,74408,Suppressed
+,"Vermont","50","25-34 years","25-34","2020","2020",Suppressed,75290,Suppressed
+,"Vermont","50","25-34 years","25-34","2021","2021",0,77659,Unreliable
+,"Vermont","50","25-34 years","25-34","2022","2022",0,77521,Unreliable
+,"Vermont","50","25-34 years","25-34","2023","2023",Suppressed,77192,Suppressed
+,"Vermont","50","25-34 years","25-34","2024 (provisional)","2024",0,77192,Unreliable
+,"Vermont","50","25-34 years","25-34","2025 (provisional and partial)","2025",0,77192,Unreliable
+,"Vermont","50","35-44 years","35-44","2018","2018",Suppressed,70601,Suppressed
+,"Vermont","50","35-44 years","35-44","2019","2019",Suppressed,71267,Suppressed
+,"Vermont","50","35-44 years","35-44","2020","2020",Suppressed,72258,Suppressed
+,"Vermont","50","35-44 years","35-44","2021","2021",Suppressed,77582,Suppressed
+,"Vermont","50","35-44 years","35-44","2022","2022",Suppressed,79179,Suppressed
+,"Vermont","50","35-44 years","35-44","2023","2023",Suppressed,80817,Suppressed
+,"Vermont","50","35-44 years","35-44","2024 (provisional)","2024",Suppressed,80817,Suppressed
+,"Vermont","50","35-44 years","35-44","2025 (provisional and partial)","2025",Suppressed,80817,Suppressed
+,"Vermont","50","45-54 years","45-54","2018","2018",Suppressed,80719,Suppressed
+,"Vermont","50","45-54 years","45-54","2019","2019",Suppressed,78051,Suppressed
+,"Vermont","50","45-54 years","45-54","2020","2020",Suppressed,75804,Suppressed
+,"Vermont","50","45-54 years","45-54","2021","2021",10,77722,Unreliable
+,"Vermont","50","45-54 years","45-54","2022","2022",10,76758,Unreliable
+,"Vermont","50","45-54 years","45-54","2023","2023",11,76367,Unreliable
+,"Vermont","50","45-54 years","45-54","2024 (provisional)","2024",Suppressed,76367,Suppressed
+,"Vermont","50","45-54 years","45-54","2025 (provisional and partial)","2025",Suppressed,76367,Suppressed
+,"Vermont","50","55-64 years","55-64","2018","2018",17,96489,Unreliable
+,"Vermont","50","55-64 years","55-64","2019","2019",25,95379,26.211
+,"Vermont","50","55-64 years","55-64","2020","2020",22,93691,23.481
+,"Vermont","50","55-64 years","55-64","2021","2021",19,96179,Unreliable
+,"Vermont","50","55-64 years","55-64","2022","2022",26,93717,27.743
+,"Vermont","50","55-64 years","55-64","2023","2023",23,91814,25.051
+,"Vermont","50","55-64 years","55-64","2024 (provisional)","2024",16,91814,Unreliable
+,"Vermont","50","55-64 years","55-64","2025 (provisional and partial)","2025",11,91814,Unreliable
+,"Vermont","50","65-74 years","65-74","2018","2018",28,72893,38.412
+,"Vermont","50","65-74 years","65-74","2019","2019",26,75206,34.572
+,"Vermont","50","65-74 years","65-74","2020","2020",33,77613,42.519
+,"Vermont","50","65-74 years","65-74","2021","2021",26,82540,31.500
+,"Vermont","50","65-74 years","65-74","2022","2022",28,83482,33.540
+,"Vermont","50","65-74 years","65-74","2023","2023",27,85541,31.564
+,"Vermont","50","65-74 years","65-74","2024 (provisional)","2024",29,85541,33.902
+,"Vermont","50","65-74 years","65-74","2025 (provisional and partial)","2025",13,85541,Unreliable
+,"Vermont","50","75-84 years","75-84","2018","2018",31,33893,91.464
+,"Vermont","50","75-84 years","75-84","2019","2019",28,35396,79.105
+,"Vermont","50","75-84 years","75-84","2020","2020",32,36624,87.374
+,"Vermont","50","75-84 years","75-84","2021","2021",26,37555,69.232
+,"Vermont","50","75-84 years","75-84","2022","2022",39,41532,93.903
+,"Vermont","50","75-84 years","75-84","2023","2023",30,44105,68.019
+,"Vermont","50","75-84 years","75-84","2024 (provisional)","2024",26,44105,58.950
+,"Vermont","50","75-84 years","75-84","2025 (provisional and partial)","2025",13,44105,Unreliable
+,"Vermont","50","85+ years","85+","2018","2018",28,14421,194.161
+,"Vermont","50","85+ years","85+","2019","2019",17,14437,Unreliable
+,"Vermont","50","85+ years","85+","2020","2020",24,14357,167.166
+,"Vermont","50","85+ years","85+","2021","2021",20,13163,151.941
+,"Vermont","50","85+ years","85+","2022","2022",22,14437,152.386
+,"Vermont","50","85+ years","85+","2023","2023",26,13477,192.921
+,"Vermont","50","85+ years","85+","2024 (provisional)","2024",27,13477,200.341
+,"Vermont","50","85+ years","85+","2025 (provisional and partial)","2025",Suppressed,13477,Suppressed
+,"Vermont","50","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Vermont","50","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Vermont","50","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Vermont","50","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Vermont","50","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Vermont","50","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Vermont","50","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Vermont","50","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Wisconsin","55","< 1 year","1","2018","2018",0,64588,Unreliable
+,"Wisconsin","55","< 1 year","1","2019","2019",0,63366,Unreliable
+,"Wisconsin","55","< 1 year","1","2020","2020",0,62759,Unreliable
+,"Wisconsin","55","< 1 year","1","2021","2021",0,59985,Unreliable
+,"Wisconsin","55","< 1 year","1","2022","2022",0,61278,Unreliable
+,"Wisconsin","55","< 1 year","1","2023","2023",0,59547,Unreliable
+,"Wisconsin","55","< 1 year","1","2024 (provisional)","2024",0,59547,Unreliable
+,"Wisconsin","55","< 1 year","1","2025 (provisional and partial)","2025",0,59547,Unreliable
+,"Wisconsin","55","1-4 years","1-4","2018","2018",0,269794,Unreliable
+,"Wisconsin","55","1-4 years","1-4","2019","2019",0,267130,Unreliable
+,"Wisconsin","55","1-4 years","1-4","2020","2020",0,263520,Unreliable
+,"Wisconsin","55","1-4 years","1-4","2021","2021",0,260260,Unreliable
+,"Wisconsin","55","1-4 years","1-4","2022","2022",0,251344,Unreliable
+,"Wisconsin","55","1-4 years","1-4","2023","2023",0,250827,Unreliable
+,"Wisconsin","55","1-4 years","1-4","2024 (provisional)","2024",0,250827,Unreliable
+,"Wisconsin","55","1-4 years","1-4","2025 (provisional and partial)","2025",0,250827,Unreliable
+,"Wisconsin","55","5-14 years","5-14","2018","2018",0,719147,Unreliable
+,"Wisconsin","55","5-14 years","5-14","2019","2019",0,714031,Unreliable
+,"Wisconsin","55","5-14 years","5-14","2020","2020",0,709909,Unreliable
+,"Wisconsin","55","5-14 years","5-14","2021","2021",0,723375,Unreliable
+,"Wisconsin","55","5-14 years","5-14","2022","2022",0,703205,Unreliable
+,"Wisconsin","55","5-14 years","5-14","2023","2023",0,703639,Unreliable
+,"Wisconsin","55","5-14 years","5-14","2024 (provisional)","2024",0,703639,Unreliable
+,"Wisconsin","55","5-14 years","5-14","2025 (provisional and partial)","2025",0,703639,Unreliable
+,"Wisconsin","55","15-24 years","15-24","2018","2018",Suppressed,774339,Suppressed
+,"Wisconsin","55","15-24 years","15-24","2019","2019",0,768140,Unreliable
+,"Wisconsin","55","15-24 years","15-24","2020","2020",Suppressed,766821,Suppressed
+,"Wisconsin","55","15-24 years","15-24","2021","2021",0,780873,Unreliable
+,"Wisconsin","55","15-24 years","15-24","2022","2022",0,795400,Unreliable
+,"Wisconsin","55","15-24 years","15-24","2023","2023",0,787515,Unreliable
+,"Wisconsin","55","15-24 years","15-24","2024 (provisional)","2024",Suppressed,787515,Suppressed
+,"Wisconsin","55","15-24 years","15-24","2025 (provisional and partial)","2025",Suppressed,787515,Suppressed
+,"Wisconsin","55","25-34 years","25-34","2018","2018",Suppressed,737377,Suppressed
+,"Wisconsin","55","25-34 years","25-34","2019","2019",10,741222,Unreliable
+,"Wisconsin","55","25-34 years","25-34","2020","2020",Suppressed,740977,Suppressed
+,"Wisconsin","55","25-34 years","25-34","2021","2021",Suppressed,737557,Suppressed
+,"Wisconsin","55","25-34 years","25-34","2022","2022",Suppressed,733535,Suppressed
+,"Wisconsin","55","25-34 years","25-34","2023","2023",Suppressed,739843,Suppressed
+,"Wisconsin","55","25-34 years","25-34","2024 (provisional)","2024",Suppressed,739843,Suppressed
+,"Wisconsin","55","25-34 years","25-34","2025 (provisional and partial)","2025",Suppressed,739843,Suppressed
+,"Wisconsin","55","35-44 years","35-44","2018","2018",24,704716,3.406
+,"Wisconsin","55","35-44 years","35-44","2019","2019",17,713075,Unreliable
+,"Wisconsin","55","35-44 years","35-44","2020","2020",21,722021,2.909
+,"Wisconsin","55","35-44 years","35-44","2021","2021",18,745882,Unreliable
+,"Wisconsin","55","35-44 years","35-44","2022","2022",36,743390,4.843
+,"Wisconsin","55","35-44 years","35-44","2023","2023",26,749317,3.470
+,"Wisconsin","55","35-44 years","35-44","2024 (provisional)","2024",32,749317,4.271
+,"Wisconsin","55","35-44 years","35-44","2025 (provisional and partial)","2025",14,749317,Unreliable
+,"Wisconsin","55","45-54 years","45-54","2018","2018",82,737557,11.118
+,"Wisconsin","55","45-54 years","45-54","2019","2019",70,715209,9.787
+,"Wisconsin","55","45-54 years","45-54","2020","2020",63,698860,9.015
+,"Wisconsin","55","45-54 years","45-54","2021","2021",77,701162,10.982
+,"Wisconsin","55","45-54 years","45-54","2022","2022",74,689605,10.731
+,"Wisconsin","55","45-54 years","45-54","2023","2023",80,688762,11.615
+,"Wisconsin","55","45-54 years","45-54","2024 (provisional)","2024",69,688762,10.018
+,"Wisconsin","55","45-54 years","45-54","2025 (provisional and partial)","2025",37,688762,5.372
+,"Wisconsin","55","55-64 years","55-64","2018","2018",140,820577,17.061
+,"Wisconsin","55","55-64 years","55-64","2019","2019",161,823018,19.562
+,"Wisconsin","55","55-64 years","55-64","2020","2020",147,819853,17.930
+,"Wisconsin","55","55-64 years","55-64","2021","2021",134,829571,16.153
+,"Wisconsin","55","55-64 years","55-64","2022","2022",156,812663,19.196
+,"Wisconsin","55","55-64 years","55-64","2023","2023",156,801703,19.459
+,"Wisconsin","55","55-64 years","55-64","2024 (provisional)","2024",185,801703,23.076
+,"Wisconsin","55","55-64 years","55-64","2025 (provisional and partial)","2025",81,801703,10.103
+,"Wisconsin","55","65-74 years","65-74","2018","2018",227,571623,39.711
+,"Wisconsin","55","65-74 years","65-74","2019","2019",178,594748,29.929
+,"Wisconsin","55","65-74 years","65-74","2020","2020",210,620424,33.848
+,"Wisconsin","55","65-74 years","65-74","2021","2021",192,649145,29.577
+,"Wisconsin","55","65-74 years","65-74","2022","2022",205,658626,31.125
+,"Wisconsin","55","65-74 years","65-74","2023","2023",205,680227,30.137
+,"Wisconsin","55","65-74 years","65-74","2024 (provisional)","2024",221,680227,32.489
+,"Wisconsin","55","65-74 years","65-74","2025 (provisional and partial)","2025",98,680227,14.407
+,"Wisconsin","55","75-84 years","75-84","2018","2018",209,285214,73.278
+,"Wisconsin","55","75-84 years","75-84","2019","2019",248,294186,84.300
+,"Wisconsin","55","75-84 years","75-84","2020","2020",200,300842,66.480
+,"Wisconsin","55","75-84 years","75-84","2021","2021",237,295589,80.179
+,"Wisconsin","55","75-84 years","75-84","2022","2022",207,321034,64.479
+,"Wisconsin","55","75-84 years","75-84","2023","2023",195,335542,58.115
+,"Wisconsin","55","75-84 years","75-84","2024 (provisional)","2024",212,335542,63.181
+,"Wisconsin","55","75-84 years","75-84","2025 (provisional and partial)","2025",115,335542,34.273
+,"Wisconsin","55","85+ years","85+","2018","2018",243,128636,188.905
+,"Wisconsin","55","85+ years","85+","2019","2019",210,128309,163.667
+,"Wisconsin","55","85+ years","85+","2020","2020",199,126669,157.102
+,"Wisconsin","55","85+ years","85+","2021","2021",205,112509,182.208
+,"Wisconsin","55","85+ years","85+","2022","2022",200,122459,163.320
+,"Wisconsin","55","85+ years","85+","2023","2023",229,114033,200.819
+,"Wisconsin","55","85+ years","85+","2024 (provisional)","2024",203,114033,178.019
+,"Wisconsin","55","85+ years","85+","2025 (provisional and partial)","2025",116,114033,101.725
+,"Wisconsin","55","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Wisconsin","55","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Wisconsin","55","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Wisconsin","55","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Wisconsin","55","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Wisconsin","55","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Wisconsin","55","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Wisconsin","55","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+,"Wyoming","56","< 1 year","1","2018","2018",0,6823,Unreliable
+,"Wyoming","56","< 1 year","1","2019","2019",0,6572,Unreliable
+,"Wyoming","56","< 1 year","1","2020","2020",0,6323,Unreliable
+,"Wyoming","56","< 1 year","1","2021","2021",0,6156,Unreliable
+,"Wyoming","56","< 1 year","1","2022","2022",0,6145,Unreliable
+,"Wyoming","56","< 1 year","1","2023","2023",0,5847,Unreliable
+,"Wyoming","56","< 1 year","1","2024 (provisional)","2024",0,5847,Unreliable
+,"Wyoming","56","< 1 year","1","2025 (provisional and partial)","2025",0,5847,Unreliable
+,"Wyoming","56","1-4 years","1-4","2018","2018",0,29089,Unreliable
+,"Wyoming","56","1-4 years","1-4","2019","2019",0,28359,Unreliable
+,"Wyoming","56","1-4 years","1-4","2020","2020",0,27462,Unreliable
+,"Wyoming","56","1-4 years","1-4","2021","2021",0,26135,Unreliable
+,"Wyoming","56","1-4 years","1-4","2022","2022",0,25195,Unreliable
+,"Wyoming","56","1-4 years","1-4","2023","2023",0,24938,Unreliable
+,"Wyoming","56","1-4 years","1-4","2024 (provisional)","2024",0,24938,Unreliable
+,"Wyoming","56","1-4 years","1-4","2025 (provisional and partial)","2025",0,24938,Unreliable
+,"Wyoming","56","5-14 years","5-14","2018","2018",0,76951,Unreliable
+,"Wyoming","56","5-14 years","5-14","2019","2019",0,76734,Unreliable
+,"Wyoming","56","5-14 years","5-14","2020","2020",0,76587,Unreliable
+,"Wyoming","56","5-14 years","5-14","2021","2021",0,76438,Unreliable
+,"Wyoming","56","5-14 years","5-14","2022","2022",0,74609,Unreliable
+,"Wyoming","56","5-14 years","5-14","2023","2023",0,73850,Unreliable
+,"Wyoming","56","5-14 years","5-14","2024 (provisional)","2024",0,73850,Unreliable
+,"Wyoming","56","5-14 years","5-14","2025 (provisional and partial)","2025",0,73850,Unreliable
+,"Wyoming","56","15-24 years","15-24","2018","2018",0,74279,Unreliable
+,"Wyoming","56","15-24 years","15-24","2019","2019",0,74590,Unreliable
+,"Wyoming","56","15-24 years","15-24","2020","2020",0,75297,Unreliable
+,"Wyoming","56","15-24 years","15-24","2021","2021",0,75876,Unreliable
+,"Wyoming","56","15-24 years","15-24","2022","2022",0,78472,Unreliable
+,"Wyoming","56","15-24 years","15-24","2023","2023",0,78353,Unreliable
+,"Wyoming","56","15-24 years","15-24","2024 (provisional)","2024",0,78353,Unreliable
+,"Wyoming","56","15-24 years","15-24","2025 (provisional and partial)","2025",0,78353,Unreliable
+,"Wyoming","56","25-34 years","25-34","2018","2018",Suppressed,77778,Suppressed
+,"Wyoming","56","25-34 years","25-34","2019","2019",0,76433,Unreliable
+,"Wyoming","56","25-34 years","25-34","2020","2020",Suppressed,76106,Suppressed
+,"Wyoming","56","25-34 years","25-34","2021","2021",0,73566,Unreliable
+,"Wyoming","56","25-34 years","25-34","2022","2022",Suppressed,73048,Suppressed
+,"Wyoming","56","25-34 years","25-34","2023","2023",0,72813,Unreliable
+,"Wyoming","56","25-34 years","25-34","2024 (provisional)","2024",Suppressed,72813,Suppressed
+,"Wyoming","56","25-34 years","25-34","2025 (provisional and partial)","2025",0,72813,Unreliable
+,"Wyoming","56","35-44 years","35-44","2018","2018",0,72713,Unreliable
+,"Wyoming","56","35-44 years","35-44","2019","2019",Suppressed,74285,Suppressed
+,"Wyoming","56","35-44 years","35-44","2020","2020",Suppressed,75526,Suppressed
+,"Wyoming","56","35-44 years","35-44","2021","2021",Suppressed,76932,Suppressed
+,"Wyoming","56","35-44 years","35-44","2022","2022",Suppressed,77642,Suppressed
+,"Wyoming","56","35-44 years","35-44","2023","2023",Suppressed,78363,Suppressed
+,"Wyoming","56","35-44 years","35-44","2024 (provisional)","2024",Suppressed,78363,Suppressed
+,"Wyoming","56","35-44 years","35-44","2025 (provisional and partial)","2025",0,78363,Unreliable
+,"Wyoming","56","45-54 years","45-54","2018","2018",10,64880,Unreliable
+,"Wyoming","56","45-54 years","45-54","2019","2019",Suppressed,63853,Suppressed
+,"Wyoming","56","45-54 years","45-54","2020","2020",Suppressed,63937,Suppressed
+,"Wyoming","56","45-54 years","45-54","2021","2021",10,64355,Unreliable
+,"Wyoming","56","45-54 years","45-54","2022","2022",17,65188,Unreliable
+,"Wyoming","56","45-54 years","45-54","2023","2023",Suppressed,66440,Suppressed
+,"Wyoming","56","45-54 years","45-54","2024 (provisional)","2024",Suppressed,66440,Suppressed
+,"Wyoming","56","45-54 years","45-54","2025 (provisional and partial)","2025",Suppressed,66440,Suppressed
+,"Wyoming","56","55-64 years","55-64","2018","2018",14,79849,Unreliable
+,"Wyoming","56","55-64 years","55-64","2019","2019",17,78754,Unreliable
+,"Wyoming","56","55-64 years","55-64","2020","2020",28,77314,36.216
+,"Wyoming","56","55-64 years","55-64","2021","2021",15,75468,Unreliable
+,"Wyoming","56","55-64 years","55-64","2022","2022",21,73023,28.758
+,"Wyoming","56","55-64 years","55-64","2023","2023",11,71588,Unreliable
+,"Wyoming","56","55-64 years","55-64","2024 (provisional)","2024",19,71588,Unreliable
+,"Wyoming","56","55-64 years","55-64","2025 (provisional and partial)","2025",12,71588,Unreliable
+,"Wyoming","56","65-74 years","65-74","2018","2018",25,58168,42.979
+,"Wyoming","56","65-74 years","65-74","2019","2019",23,60590,37.960
+,"Wyoming","56","65-74 years","65-74","2020","2020",31,63814,48.579
+,"Wyoming","56","65-74 years","65-74","2021","2021",30,65986,45.464
+,"Wyoming","56","65-74 years","65-74","2022","2022",32,67060,47.718
+,"Wyoming","56","65-74 years","65-74","2023","2023",27,69033,39.112
+,"Wyoming","56","65-74 years","65-74","2024 (provisional)","2024",22,69033,31.869
+,"Wyoming","56","65-74 years","65-74","2025 (provisional and partial)","2025",20,69033,28.972
+,"Wyoming","56","75-84 years","75-84","2018","2018",22,26526,82.937
+,"Wyoming","56","75-84 years","75-84","2019","2019",25,27598,90.586
+,"Wyoming","56","75-84 years","75-84","2020","2020",20,28948,69.089
+,"Wyoming","56","75-84 years","75-84","2021","2021",25,28167,88.756
+,"Wyoming","56","75-84 years","75-84","2022","2022",28,30594,91.521
+,"Wyoming","56","75-84 years","75-84","2023","2023",29,32461,89.338
+,"Wyoming","56","75-84 years","75-84","2024 (provisional)","2024",30,32461,92.419
+,"Wyoming","56","75-84 years","75-84","2025 (provisional and partial)","2025",16,32461,Unreliable
+,"Wyoming","56","85+ years","85+","2018","2018",17,10681,Unreliable
+,"Wyoming","56","85+ years","85+","2019","2019",16,10991,Unreliable
+,"Wyoming","56","85+ years","85+","2020","2020",14,11014,Unreliable
+,"Wyoming","56","85+ years","85+","2021","2021",22,9724,226.244
+,"Wyoming","56","85+ years","85+","2022","2022",18,10405,Unreliable
+,"Wyoming","56","85+ years","85+","2023","2023",21,10371,202.488
+,"Wyoming","56","85+ years","85+","2024 (provisional)","2024",18,10371,Unreliable
+,"Wyoming","56","85+ years","85+","2025 (provisional and partial)","2025",12,10371,Unreliable
+,"Wyoming","56","Not Stated","NS","2018","2018",0,Not Applicable,Not Applicable
+,"Wyoming","56","Not Stated","NS","2019","2019",0,Not Applicable,Not Applicable
+,"Wyoming","56","Not Stated","NS","2020","2020",0,Not Applicable,Not Applicable
+,"Wyoming","56","Not Stated","NS","2021","2021",0,Not Applicable,Not Applicable
+,"Wyoming","56","Not Stated","NS","2022","2022",0,Not Applicable,Not Applicable
+,"Wyoming","56","Not Stated","NS","2023","2023",0,Not Applicable,Not Applicable
+,"Wyoming","56","Not Stated","NS","2024 (provisional)","2024",0,Not Applicable,Not Applicable
+,"Wyoming","56","Not Stated","NS","2025 (provisional and partial)","2025",0,Not Applicable,Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Title: StomachCAFBFS"
+"Residence States: Arizona (04); Colorado (08); Idaho (16); Iowa (19); Kansas (20); Minnesota (27); Montana (30); Nebraska (31);"
+"New Mexico (35); North Dakota (38); Oklahoma (40); South Dakota (46); Utah (49); Vermont (50); Wisconsin (55); Wyoming (56)"
+"UCD - ICD-10 Codes: C18.0 (Caecum - Malignant neoplasms); C18.1 (Appendix - Malignant neoplasms); C18.2 (Ascending colon -"
+"Malignant neoplasms); C18.3 (Hepatic flexure - Malignant neoplasms); C18.4 (Transverse colon - Malignant neoplasms); C18.5"
+"(Splenic flexure - Malignant neoplasms); C18.6 (Descending colon - Malignant neoplasms); C18.7 (Sigmoid colon - Malignant"
+"neoplasms); C18.8 (Overlapping lesion of colon - Malignant neoplasms); C18.9 (Colon, unspecified - Malignant neoplasms); C19"
+"(Malignant neoplasm of rectosigmoid junction); C20 (Malignant neoplasm of rectum)"
+"Group By: Residence State; Ten-Year Age Groups; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Aug 6, 2025 11:33:47 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2023,"
+"and from provisional data for years 2024 and later, as compiled from data provided by the 57 vital statistics jurisdictions"
+"through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Aug 6, 2025"
+"11:33:47 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"4. The population figures for years 2023 and later are single-race estimates of the July 1 resident population, from the Vintage"
+"2023 postcensal series released by the Census Bureau on June 27, 2024. The population figures for years 2022 and later are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 and 2023 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the"
+"April 1, 2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population"
+"estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File"
+"(CEF). The population figures for years 2021 are single-race estimates of the July 1 resident population, based on the Blended"
+"Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"6. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"7. Data for recent deaths occurring in Massachusetts and Michigan are temporarily under reported due to technical difficulties"
+"with reporting systems."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#ICD-10 Changes."
+"9. Deaths occurring through July 19, 2025 as of July 27, 2025."
